@@ -1,14 +1,17 @@
 import { useDispatch, useSelector } from "react-redux";
 import { resetCart } from "../store/slices/productSlice";
 import { Link } from "react-router-dom";
+import { useState } from "react";
 
 import Product from "../components/Product";
 import cart from "../assets/images/empty-cart.svg";
 import "../assets/styles/cartpage.scss";
+import Modal from "../components/Modal";
 
 export default function CartPage() {
   const { cartedProducts } = useSelector((state) => state.productReducer);
   const dispatch = useDispatch();
+  const [isOpenedModal, setIsOpenedModal] = useState(false);
 
   const returnCartedProductsCost = (products) => {
     let sum = 0;
@@ -23,6 +26,7 @@ export default function CartPage() {
       <main className="cartpage">
         <div className="container">
           <aside>
+
             <div className="about__order">
               <p>Your goods({cartedProducts.length})</p>
               <p>{returnCartedProductsCost(cartedProducts)}$</p>
@@ -34,7 +38,12 @@ export default function CartPage() {
                 <p>{returnCartedProductsCost(cartedProducts)}$</p>
               </div>
 
-              <button className="btn__ordering">Place an order</button>
+              <button
+                className="btn__ordering"
+                onClick={() => setIsOpenedModal(true)}
+              >
+                Place an order
+              </button>
 
               <p className="agreements">
                 By clicking on the "Place an order" button, you agree to the
@@ -49,6 +58,22 @@ export default function CartPage() {
             ))}
           </div>
         </div>
+        <Modal isOpened={isOpenedModal} setIsOpenedModal={setIsOpenedModal}>
+          <form
+            onSubmit={(e) => {
+              e.preventDefault();
+              setIsOpenedModal(false);
+              dispatch(resetCart())
+            }}
+            className="order__data"
+          >
+            <h2 className="order__title">Сheck your order</h2>
+            <input type="text" placeholder="Your name" />
+            <input type="text" placeholder="Your phone number" />
+            <input type="email" placeholder="Your email" />
+            <button type="submit">Order</button>
+          </form>
+        </Modal>
       </main>
     );
   else
@@ -59,11 +84,11 @@ export default function CartPage() {
             <img src={cart} alt="" />
             <h3>There is nothing in the cart yet</h3>
             <p>
-              click{" "}
+              Click{" "}
               <Link to="/" className="link__main">
                 here
               </Link>{" "}
-              to go to the catalog
+              to go to the main page
             </p>
           </div>
         </div>

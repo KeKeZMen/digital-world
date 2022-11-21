@@ -1,0 +1,44 @@
+@import "./color.scss";
+
+.modal__back{
+    height: 100%;
+    width: 100%;
+    background-color: rgba($color: #000000, $alpha: .5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .modal__block{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 400px;
+        width: 300px;
+        background-color: $secondary-color;
+        animation: openModal .5s forwards;
+
+        .modal__content{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+        }
+    }
+}
+
+@keyframes openModal {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+.modal__inactive{
+    display: none;
+}

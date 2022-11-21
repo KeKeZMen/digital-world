@@ -11,7 +11,7 @@ function filterDevices(products, query) {
   if(query.type == '') return filteredProducts
   if(query.type) filteredProducts = filteredProducts.filter((product) => query.type.includes(product.type));
 
-  if(query.brand) filteredProducts = filteredProducts.filter((product) => query.brand.includes(product.brand));
+  if(query.brand) filteredProducts = filteredProducts.filter((product) => query.brand.includes(product.brand.toLowerCase()));
 
   if(query.cpu) filteredProducts = filteredProducts.filter(product => query.cpu.includes(product.charcs.CPU.toLowerCase()))
 

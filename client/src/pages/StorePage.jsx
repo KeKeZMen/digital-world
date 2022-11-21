@@ -23,6 +23,9 @@ export default function StorePage() {
   useEffect(() => {
     dispatch(resetFilterQuery());
     dispatch(fetchProductsWithType(type));
+    document.querySelectorAll(".filter__checkbox").forEach((input) => {
+      input.classList.remove("active");
+    });
   }, [type, dispatch]);
 
   return (
