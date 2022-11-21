@@ -1,0 +1,49 @@
+@import "../styles/color.scss";
+
+.dropdown {
+  display: flex;
+  flex-direction: column;
+
+  &__btn {
+    margin-top: 5px;
+    cursor: pointer;
+    background-color: $secondary-color;
+    font-size: 18px;
+    color: $primary-color;
+    text-transform: capitalize;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid $primary-color;
+    padding: 10px;
+    text-align: start;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+
+    img {
+      transform: rotate(-90deg);
+      width: 15px;
+      height: 15px;
+      transition: 0.7s;
+    }
+  }
+  .active {
+    border: none;
+  }
+
+  &__content {
+    background-color: $secondary-color;
+  }
+}
+
+.hidden {
+  .dropdown__content {
+    display: none;
+  }
+
+  .dropdown__btn {
+    img {
+      transform: rotate(90deg);
+    }
+  }
+}

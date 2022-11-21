@@ -1,0 +1,53 @@
+@import "./color.scss";
+
+.product__card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 270px;
+    height: 470px;
+    margin: 0 15px 15px;
+    padding: 29px 60px;
+    transition: .2s;
+    
+    img{
+        height: 200px;
+        width: 200px;
+    }
+    
+    .product__title{
+        font-size: 20px;
+        text-align: center;
+    }
+    
+    .charcs{
+        margin-top: 10px;
+    }
+    
+    &:hover{
+        box-shadow: 2px 5px 10px rgba(1, 57, 255, 0.25);
+
+    }
+
+    .buy{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        margin-top: 10px;
+
+        &__btn{
+            border: 1px solid $acsent-color;
+            cursor: pointer;
+            padding: 10px;
+            background-color: $secondary-color;
+            transition: .4s;
+
+            &:hover{
+                color: $secondary-color;
+                background-color: $acsent-color;
+            }
+        }
+    }
+}

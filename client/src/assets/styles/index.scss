@@ -1,0 +1,28 @@
+@import "./color.scss";
+
+*, *::after, *::before{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  color: $primary-color;
+}
+
+.container{
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+main{
+  min-height: calc(100vh - 100px - 156px);
+  margin-top: 90px;
+  margin-bottom: 20px;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul{
+  list-style: none;
+}

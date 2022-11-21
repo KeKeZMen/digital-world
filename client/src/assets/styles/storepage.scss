@@ -1,0 +1,14 @@
+@import "./color.scss";
+
+.storepage{
+    .container{
+        display: flex;
+        justify-content: flex-start;
+
+        .products__list{
+            width: 79%;
+            display: flex;
+            flex-wrap: wrap;
+        }
+    }
+}

@@ -1,0 +1,197 @@
+@import "./color.scss";
+
+.mainpage {
+  .add {
+    background-color: $third-color;
+
+    & {
+      .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .add__text {
+          display: flex;
+          flex-direction: column;
+
+          h2 {
+            font-style: normal;
+            font-weight: 700;
+            font-size: 48px;
+            margin-bottom: 46px;
+          }
+
+          p {
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 22px;
+            margin-bottom: 33px;
+            width: 353px;
+          }
+
+          .to__catalog {
+            padding: 19px 93px;
+            background-color: $acsent-color;
+            color: $secondary-color;
+            width: fit-content;
+            font-weight: 700;
+            font-size: 20px;
+          }
+        }
+      }
+    }
+  }
+
+  .novelty {
+    & {
+      .container {
+        margin-top: 56px;
+
+        .novelty__text {
+          display: flex;
+          justify-content: flex-start;
+          align-items: center;
+
+          h2 {
+            font-style: normal;
+            font-weight: 700;
+            font-size: 36px;
+          }
+
+          .links {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-left: 67px;
+
+            .link__type {
+              margin-right: 50px;
+              text-transform: capitalize;
+              font-weight: 400;
+              font-size: 17px;
+              line-height: 17px;
+              transition: 0.4s;
+
+              &:hover {
+                color: $acsent-color;
+              }
+
+              &:last-child {
+                margin-right: 0;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .imgs {
+    margin-top: 55px;
+    & {
+      .container {
+        display: flex;
+        justify-content: space-between;
+
+        .apples {
+          position: relative;
+          width: 370px;
+          height: 470px;
+          background: url("../images/iphone.png") center;
+
+          h2 {
+            color: $secondary-color;
+            position: absolute;
+            top: 70px;
+            left: calc(50% - 100px);
+            font-style: normal;
+            font-weight: 600;
+            font-size: 36px;
+          }
+        }
+
+        .vr__man {
+          position: relative;
+          width: 770px;
+          height: 470px;
+          background: url("../images/vr-man.png") center;
+
+          h2 {
+            top: 145px;
+            right: 0;
+            color: $secondary-color;
+            position: absolute;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 36px;
+            width: 274px;
+          }
+        }
+      }
+    }
+  }
+
+  .catalog {
+    margin-top: 103px;
+
+    & {
+      .container {
+        display: flex;
+        flex-direction: column;
+
+        h2 {
+          font-style: normal;
+          font-weight: 700;
+          font-size: 36px;
+          margin-bottom: 42px;
+        }
+
+        .products__list {
+          display: flex;
+          flex-wrap: wrap;
+        }
+      }
+    }
+  }
+
+  .statistics {
+    margin-top: 45px;
+
+    & {
+      .container {
+        display: flex;
+        flex-direction: column;
+
+        h2 {
+          font-style: normal;
+          font-weight: 700;
+          font-size: 36px;
+          margin-bottom: 39px;
+        }
+
+        .statistics__digits {
+          display: flex;
+          li {
+            font-style: normal;
+            font-weight: 400;
+            font-size: 18px;
+            margin-right: 67px;
+            display: flex;
+            align-items: center;
+
+            &:last-child{
+              margin-right: 0;
+            }
+          }
+          span {
+            font-style: normal;
+            font-weight: 700;
+            font-size: 36px;
+            line-height: 44px;
+            margin-right: 10px;
+          }
+        }
+      }
+    }
+  }
+}

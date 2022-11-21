@@ -1,0 +1,38 @@
+.carousel-container {
+  display: flex;
+  align-items: center;
+
+  .prev, .next{
+    background: none;
+    border: none;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+
+    img{
+      width: 50px;
+      height: 50px;
+    }
+  }
+
+  .prev{
+    img{
+      transform: rotate(180deg);
+    }
+  }
+
+  .carousel-block {
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    position: relative;
+    
+    .carousel-line {
+      transition: 0.4s;
+      transform: translateX(0);
+      width: max-content;
+      display: flex;
+      flex-direction: row;
+    }
+  }
+}

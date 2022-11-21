@@ -1,0 +1,676 @@
+[
+  {
+    "id": 1,
+    "img": "",
+    "type": "phones",
+    "brand": "Huawei",
+    "title": "Nova 5T",
+    "cost": 22000,
+    "charcs": {
+      "CPU": "Kirin 981",
+      "RAM": 6,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 2,
+    "img": "",
+    "type": "phones",
+    "brand": "Samsung",
+    "title": "Galaxy A32",
+    "cost": 21999,
+    "charcs": {
+      "CPU": "Helio G80",
+      "RAM": 4,
+      "Storage": 128,
+      "Display": "Super AMOLED"
+    }
+  },
+  {
+    "id": 3,
+    "img": "",
+    "type": "phones",
+    "brand": "Samsung",
+    "title": "Galaxy S20",
+    "cost": 55999,
+    "charcs": {
+      "CPU": "Exynos 990",
+      "RAM": 8,
+      "Storage": 128,
+      "Display": "Dynamic AMOLED"
+    }
+  },
+  {
+    "id": 4,
+    "img": "",
+    "type": "phones",
+    "brand": "Samsung",
+    "title": "Galaxy A12",
+    "cost": 12999,
+    "charcs": {
+      "CPU": "Helio P35",
+      "RAM": 3,
+      "Storage": 32,
+      "Display": "PLS"
+    }
+  },
+  {
+    "id": 5,
+    "img": "",
+    "type": "phones",
+    "brand": "Huawei",
+    "title": "Nova 9 SE",
+    "cost": 20999,
+    "charcs": {
+      "CPU": "Snapdragon 680",
+      "RAM": 8,
+      "Storage": 128,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 6,
+    "img": "",
+    "type": "phones",
+    "brand": "Huawei",
+    "title": "P50 Pro",
+    "cost": 69999,
+    "charcs": {
+      "CPU": "Snapdragon 888",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "AMOLED"
+    }
+  },
+  {
+    "id": 7,
+    "img": "",
+    "type": "phones",
+    "brand": "Huawei",
+    "title": "P40 Lite",
+    "cost": 20599,
+    "charcs": {
+      "CPU": "Kirin 810",
+      "RAM": 6,
+      "Storage": 128,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 8,
+    "img": "",
+    "type": "phones",
+    "brand": "Xiaomi",
+    "title": "Redmi Note 8",
+    "cost": 13999,
+    "charcs": {
+      "CPU": "Helio G85",
+      "RAM": 4,
+      "Storage": 64,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 9,
+    "img": "",
+    "type": "phones",
+    "brand": "Xiaomi",
+    "title": "Redmi Note 10 Pro",
+    "cost": 26999,
+    "charcs": {
+      "CPU": "Snapdragon 732G",
+      "RAM": 8,
+      "Storage": 128,
+      "Display": "AMOLED"
+    }
+  },
+  {
+    "id": 10,
+    "img": "",
+    "type": "phones",
+    "brand": "Xiaomi",
+    "title": "Redmi Note 11",
+    "cost": 15999,
+    "charcs": {
+      "CPU": "Snapdragon 680",
+      "RAM": 4,
+      "Storage": 64,
+      "Display": "AMOLED"
+    }
+  },
+  {
+    "id": 11,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "IdeaPad 330",
+    "cost": 24899,
+    "charcs": {
+      "CPU": "Intel core i3 6006U",
+      "RAM": 4,
+      "Storage": 1000,
+      "Display": "TFT TN"
+    }
+  },
+  {
+    "id": 12,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "IdeaPad 5 Pro",
+    "cost": 77999,
+    "charcs": {
+      "CPU": "Intel core i5 1135G7",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 13,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "IdeaPad 3",
+    "cost": 54999,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 4500U",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "TFT TN"
+    }
+  },
+  {
+    "id": 14,
+    "img": "",
+    "type": "laptops",
+    "brand": "ASUS",
+    "title": "VivoBook 15",
+    "cost": 46999,
+    "charcs": {
+      "CPU": "Intel core i3 1115G4",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "OLED"
+    }
+  },
+  {
+    "id": 15,
+    "img": "",
+    "type": "laptops",
+    "brand": "ASUS",
+    "title": "VivoBook S14",
+    "cost": 59999,
+    "charcs": {
+      "CPU": "Intel core i5 1035G1",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 16,
+    "img": "",
+    "type": "laptops",
+    "brand": "Acer",
+    "title": "Nitro 5",
+    "cost": 77999,
+    "charcs": {
+      "CPU": "Intel core i5 11300H",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 17,
+    "img": "",
+    "type": "laptops",
+    "brand": "Acer",
+    "title": "Aspire 3",
+    "cost": 39999,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 3500U",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "TFT TN"
+    }
+  },
+  {
+    "id": 18,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "Pavilion 15",
+    "cost": 46999,
+    "charcs": {
+      "CPU": "AMD Ryzen 3 5300U",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 19,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "Pavilion Aero 13",
+    "cost": 52999,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 5600U",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 20,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "Pavilion 14",
+    "cost": 44999,
+    "charcs": {
+      "CPU": "AMD Ryzen 3 5300U",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 21,
+    "img": "",
+    "type": "computers",
+    "brand": "DEXP",
+    "title": "Atlas H337",
+    "cost": 12599,
+    "charcs": {
+      "CPU": "Celeron N4120",
+      "RAM": 4,
+      "Storage": 120
+    }
+  },
+  {
+    "id": 22,
+    "img": "",
+    "type": "computers",
+    "brand": "DEXP",
+    "title": "Atlas H326",
+    "cost": 37499,
+    "charcs": {
+      "CPU": "Core i3 10100F",
+      "RAM": 8,
+      "Storage": 512
+    }
+  },
+  {
+    "id": 23,
+    "img": "",
+    "type": "computers",
+    "brand": "DEXP",
+    "title": "Atlas H299",
+    "cost": 31499,
+    "charcs": {
+      "CPU": "Core i5 10400",
+      "RAM": 16,
+      "Storage": 240
+    }
+  },
+  {
+    "id": 24,
+    "img": "",
+    "type": "computers",
+    "brand": "ZET",
+    "title": "Gaming NEO M056",
+    "cost": 62999,
+    "charcs": {
+      "CPU": "Core i5 11400F",
+      "RAM": 16,
+      "Storage": 512
+    }
+  },
+  {
+    "id": 25,
+    "img": "",
+    "type": "computers",
+    "brand": "ZET",
+    "title": "Gaming NEO M045",
+    "cost": 44999,
+    "charcs": {
+      "CPU": "Core i3 10105F",
+      "RAM": 16,
+      "Storage": 512
+    }
+  },
+  {
+    "id": 26,
+    "img": "",
+    "type": "computers",
+    "brand": "ZET",
+    "title": "Gaming NEO M026",
+    "cost": 49999,
+    "charcs": {
+      "CPU": "Core i3 10100F",
+      "RAM": 16,
+      "Storage": 500
+    }
+  },
+  {
+    "id": 27,
+    "img": "",
+    "type": "computers",
+    "brand": "Raskat",
+    "title": "Strike 520",
+    "cost": 76999,
+    "charcs": {
+      "CPU": "Core i5 10400F",
+      "RAM": 16,
+      "Storage": 1000
+    }
+  },
+  {
+    "id": 28,
+    "img": "",
+    "type": "computers",
+    "brand": "Raskat",
+    "title": "Strike 320",
+    "cost": 90299,
+    "charcs": {
+      "CPU": "Core i5 12100F",
+      "RAM": 16,
+      "Storage": 1000
+    }
+  },
+  {
+    "id": 29,
+    "img": "",
+    "type": "computers",
+    "brand": "Raskat",
+    "title": "Strike 520",
+    "cost": 123499,
+    "charcs": {
+      "CPU": "Core i5 10400",
+      "RAM": 16,
+      "Storage": 500
+    }
+  },
+  {
+    "id": 30,
+    "img": "",
+    "type": "computers",
+    "brand": "Raskat",
+    "title": "Standart 700",
+    "cost": 49999,
+    "charcs": {
+      "CPU": "Core i7 10700",
+      "RAM": 16,
+      "Storage": 480
+    }
+  },
+  {
+    "id": 31,
+    "img": "",
+    "type": "tablets",
+    "brand": "Irbis",
+    "title": "TZ719",
+    "cost": 3499,
+    "charcs": {
+      "CPU": "Spreadtrum SC7731E",
+      "RAM": 1,
+      "Storage": 16,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 32,
+    "img": "",
+    "type": "tablets",
+    "brand": "Irbis",
+    "title": "TZ725",
+    "cost": 2495,
+    "charcs": {
+      "CPU": "Spreadtrum SC7731C",
+      "RAM": 1,
+      "Storage": 8,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 33,
+    "img": "",
+    "type": "tablets",
+    "brand": "Irbis",
+    "title": "TZ757",
+    "cost": 2599,
+    "charcs": {
+      "CPU": "Spreadtrum SC7731",
+      "RAM": 1,
+      "Storage": 8,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 34,
+    "img": "",
+    "type": "tablets",
+    "brand": "BQ",
+    "title": "7098G",
+    "cost": 4499,
+    "charcs": {
+      "CPU": "Spreadtrum SC7731E",
+      "RAM": 1,
+      "Storage": 8,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 35,
+    "img": "",
+    "type": "tablets",
+    "brand": "BQ",
+    "title": "7083G",
+    "cost": 4999,
+    "charcs": {
+      "CPU": "Spreadtrum SC7731E",
+      "RAM": 1,
+      "Storage": 8,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 36,
+    "img": "",
+    "type": "tablets",
+    "brand": "BQ",
+    "title": "7000G",
+    "cost": 4599,
+    "charcs": {
+      "CPU": "Unisoc SC7731E",
+      "RAM": 1,
+      "Storage": 16,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 37,
+    "img": "",
+    "type": "tablets",
+    "brand": "TCL",
+    "title": "NXTPAPER 10s",
+    "cost": 16999,
+    "charcs": {
+      "CPU": "MediaTek MT8768",
+      "RAM": 4,
+      "Storage": 64,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 38,
+    "img": "",
+    "type": "tablets",
+    "brand": "TCL",
+    "title": "NXTPAPER 10s LTE",
+    "cost": 18999,
+    "charcs": {
+      "CPU": "MediaTek MT8768",
+      "RAM": 4,
+      "Storage": 64,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 39,
+    "img": "",
+    "type": "tablets",
+    "brand": "TCL",
+    "title": "TABMAX 10",
+    "cost": 18999,
+    "charcs": {
+      "CPU": "MediaTek MT8788A",
+      "RAM": 4,
+      "Storage": 64,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 40,
+    "img": "",
+    "type": "tablets",
+    "brand": "Nokia",
+    "title": "T20",
+    "cost": 17999,
+    "charcs": {
+      "CPU": "Unisoc Tiger T610",
+      "RAM": 4,
+      "Storage": 64,
+      "Display": "IPS"
+    }
+  },
+  {
+    "id": 41,
+    "img": "",
+    "type": "devices",
+    "brand": "Logitech",
+    "title": "H110",
+    "cost": 1299,
+    "charcs": {
+      "Frequency": "20Гц - 20кГц",
+      "Resistance": 32,
+      "Sensitivity": 100
+    }
+  },
+  {
+    "id": 42,
+    "img": "",
+    "type": "devices",
+    "brand": "Logitech",
+    "title": "G435",
+    "cost": 6399,
+    "charcs": {
+      "Frequency": "20Гц - 20кГц",
+      "Resistance": 45,
+      "Sensitivity": 83
+    }
+  },
+  {
+    "id": 43,
+    "img": "",
+    "type": "devices",
+    "brand": "Logitech",
+    "title": "G432",
+    "cost": 5199,
+    "charcs": {
+      "Frequency": "20Гц - 20кГц",
+      "Resistance": 39,
+      "Sensitivity": 107
+    }
+  },
+  {
+    "id": 44,
+    "img": "",
+    "type": "devices",
+    "brand": "Logitech",
+    "title": "G733",
+    "cost": 14999,
+    "charcs": {
+      "Frequency": "20Гц - 20кГц",
+      "Resistance": 39,
+      "Sensitivity": 88
+    }
+  },
+  {
+    "id": 45,
+    "img": "",
+    "type": "devices",
+    "brand": "ExeGate",
+    "title": "LY-331",
+    "cost": 399,
+    "charcs": {
+      "Keys": 104,
+      "Connection": "USB"
+    }
+  },
+  {
+    "id": 46,
+    "img": "",
+    "type": "devices",
+    "brand": "ExeGate",
+    "title": "LY-401",
+    "cost": 399,
+    "charcs": {
+      "Keys": 104,
+      "Connection": "USB"
+    }
+  },
+  {
+    "id": 47,
+    "img": "",
+    "type": "devices",
+    "brand": "ExeGate",
+    "title": "LY-405",
+    "cost": 399,
+    "charcs": {
+      "Keys": 105,
+      "Connection": "USB"
+    }
+  },
+  {
+    "id": 48,
+    "img": "",
+    "type": "devices",
+    "brand": "Aceline",
+    "title": "CM-408BU",
+    "cost": 199,
+    "charcs": {
+      "Resolution": "800dpi",
+      "Connection": "USB Type-A"
+    }
+  },
+  {
+    "id": 49,
+    "img": "",
+    "type": "devices",
+    "brand": "Aceline",
+    "title": "CM-906BU",
+    "cost": 199,
+    "charcs": {
+      "Resolution": "1200dpi",
+      "Connection": "USB Type-A"
+    }
+  },
+  {
+    "id": 50,
+    "img": "",
+    "type": "devices",
+    "brand": "Oklick",
+    "title": "115S",
+    "cost": 199,
+    "charcs": {
+      "Resolution": "1200dpi",
+      "Connection": "USB Type-A"
+    }
+  }
+]

@@ -1,0 +1,95 @@
+@import "./color.scss";
+
+aside {
+  height: max-content;
+  width: 21%;
+
+  .search {
+    border: none;
+    border-bottom: 1px solid;
+    padding: 10px;
+    width: 100%;
+    outline: none;
+    height: 40px;
+    font-size: 16px;
+    color: $primary-color;
+  }
+
+  .to__filter {
+    padding: 10px;
+    border: none;
+    background: none;
+    text-transform: uppercase;
+    font-size: 17px;
+    margin-left: 15px;
+    display: flex;
+
+    label {
+      display: flex;
+      cursor: pointer;
+      align-items: center;
+    }
+
+    span {
+      margin-left: 5px;
+    }
+
+    .filter__input {
+      display: none;
+    }
+
+    .filter__checkbox {
+      background: url("../images/input-inactive.svg") center;
+      width: 15px;
+      height: 15px;
+      display: block;
+    }
+
+    .active {
+      background: url("../images/input-active.svg") center;
+    }
+  }
+
+  .filter__actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 10px;
+
+    .filters__select {
+      cursor: pointer;
+      padding: 10px;
+      text-transform: uppercase;
+      font-size: 16px;
+      background: none;
+      border: 1px solid $acsent-color;
+      margin-bottom: 10px;
+      transition: 0.4s;
+      width: 90%;
+
+      &:hover {
+        background-color: $acsent-color;
+        color: $secondary-color;
+      }
+    }
+
+    .filters__reset {
+      cursor: pointer;
+      padding: 10px;
+      text-transform: uppercase;
+      font-size: 16px;
+      background: none;
+      border: 1px solid $acsent-color;
+      margin-bottom: 10px;
+      transition: 0.4s;
+      width: 90%;
+
+      &:hover {
+        background-color: $acsent-color;
+        color: $secondary-color;
+      }
+    }
+  }
+}

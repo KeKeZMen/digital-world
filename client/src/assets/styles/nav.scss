@@ -1,0 +1,72 @@
+@import "./color.scss";
+
+nav {
+  padding: 15px 0;
+  background-color: $secondary-color;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  box-shadow: 0 1px 24px 0 rgb(0 0 0 / 14%);
+  z-index: 1;
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .logo {
+      display: flex;
+      align-items: center;
+
+      &__text {
+        margin-left: 10px;
+
+        h1 {
+          font-weight: 700;
+          font-size: 24px;
+        }
+
+        p {
+          font-weight: 500;
+          font-size: 14px;
+        }
+      }
+    }
+
+    .links {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      .link__type {
+        margin-right: 50px;
+        text-transform: capitalize;
+        transition: 0.4s;
+        font-weight: 400;
+        font-size: 17px;
+        line-height: 17px;
+
+        &:hover {
+          color: $acsent-color;
+        }
+
+        &:last-child {
+          margin-right: 0;
+        }
+      }
+    }
+
+    .link__cart {
+      border: 3px $acsent-color solid;
+      text-transform: uppercase;
+      padding: 11px 32px;
+      transition: 0.4s;
+
+      &:hover {
+        background-color: $acsent-color;
+        color: $secondary-color;
+      }
+    }
+  }
+}

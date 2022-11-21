@@ -1,0 +1,68 @@
+@import "./color.scss";
+
+footer {
+  background-color: $primary-color;
+  padding: 30px 0;
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .logo {
+      display: flex;
+      align-items: center;
+
+      &__text {
+        margin-left: 10px;
+
+        h1 {
+          color: $secondary-color;
+          font-weight: 700;
+          font-size: 24px;
+        }
+
+        p {
+          color: $secondary-color;
+        }
+      }
+    }
+
+    .products__types {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      li {
+        color: $secondary-color;
+        margin-right: 50px;
+        text-transform: capitalize;
+
+        &:last-child {
+          margin-right: 0;
+        }
+      }
+    }
+
+    .call {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      h2 {
+        color: $secondary-color;
+        margin-bottom: 10px;
+      }
+
+      a {
+        border: 3px $acsent-color solid;
+        padding: 11px 32px;
+        color: $secondary-color;
+        transition: 0.4s;
+
+        &:hover {
+          background-color: $acsent-color;
+        }
+      }
+    }
+  }
+}
