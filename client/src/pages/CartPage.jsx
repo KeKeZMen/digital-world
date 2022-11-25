@@ -64,6 +64,7 @@ export default function CartPage() {
               e.preventDefault();
               setIsOpenedModal(false);
               dispatch(resetCart())
+              window.localStorage.clear()
             }}
             className="order__data"
           >

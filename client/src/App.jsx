@@ -2,6 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import { fetchAllProducts } from "./store/functions/productFunctions";
 import { useDispatch } from "react-redux";
 import { useLayoutEffect } from "react";
+import { setCartedProductsFromLocalStorage } from "./store/slices/productSlice";
 
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
@@ -11,8 +12,10 @@ import StorePage from "./pages/StorePage";
 
 function App() {
   const dispatch = useDispatch();
+
   useLayoutEffect(() => {
     fetchAllProducts(dispatch);
+    if(window.localStorage.getItem('cartedProducts')) dispatch(setCartedProductsFromLocalStorage(JSON.parse(window.localStorage.getItem('cartedProducts'))))
   }, [dispatch]);
 
   return (

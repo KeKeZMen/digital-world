@@ -100,6 +100,12 @@ export const sortSearchedProducts = (products, searchedTerm) => {
 }
 
 export const actionWithCart = (product, cartedProducts) => dispatch => {
-  if(!cartedProducts.includes(product)) dispatch(addProductToCart(product))
-  else dispatch(removeProductFromCart(product))
+  if(!cartedProducts.includes(product)) {
+    dispatch(addProductToCart(product))
+    window.localStorage.setItem('cartedProducts', JSON.stringify([...cartedProducts, product]))
+  }
+  else {
+    dispatch(removeProductFromCart(product.id))
+    window.localStorage.setItem('cartedProducts', JSON.stringify([...cartedProducts.filter(cartedProduct => cartedProduct.id !== product.id)]))
+  }
 }

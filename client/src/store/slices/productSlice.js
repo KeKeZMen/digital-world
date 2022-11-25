@@ -45,10 +45,13 @@ const productSlice = createSlice({
       state.cartedProducts.push(action.payload);
     },
     removeProductFromCart(state, action) {
-      state.cartedProducts = state.cartedProducts.filter(product => product !== action.payload)
+      state.cartedProducts = state.cartedProducts.filter(cartedProduct => cartedProduct.id !== action.payload)
     },
     resetCart(state){
       state.cartedProducts = []
+    },
+    setCartedProductsFromLocalStorage(state, action){
+      state.cartedProducts = action.payload
     }
   },
 });
@@ -64,5 +67,6 @@ export const {
   removeProductFromCart,
   createProductsCharcs,
   createProductsCount,
-  resetCart
+  resetCart,
+  setCartedProductsFromLocalStorage
 } = productSlice.actions;

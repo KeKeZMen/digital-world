@@ -8,7 +8,6 @@ import Slider from "../components/Slider";
 import Product from "../components/Product";
 import vr from "../assets/images/vr.png";
 import iphone from "../assets/images/slider-iphone.png"
-import computer from "../assets/images/comp-slider.png"
 
 export default function MainPage() {
   const { types, products, allProductsCount } = useSelector((state) => state.productReducer);
@@ -32,7 +31,6 @@ export default function MainPage() {
             <Slider elWidth={570}>
               <img src={vr} alt="" />
               <img src={iphone} alt="" />
-              <img src={computer} alt="" />
             </Slider>
           </div>
         </div>
