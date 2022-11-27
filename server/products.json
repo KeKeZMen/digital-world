@@ -5,7 +5,7 @@
     "type": "phones",
     "brand": "Huawei",
     "title": "Nova 5T",
-    "cost": 22000,
+    "cost": 362,
     "charcs": {
       "CPU": "Kirin 981",
       "RAM": 6,
@@ -19,7 +19,7 @@
     "type": "phones",
     "brand": "Samsung",
     "title": "Galaxy A32",
-    "cost": 21999,
+    "cost": 362,
     "charcs": {
       "CPU": "Helio G80",
       "RAM": 4,
@@ -33,7 +33,7 @@
     "type": "phones",
     "brand": "Samsung",
     "title": "Galaxy S20",
-    "cost": 55999,
+    "cost": 921,
     "charcs": {
       "CPU": "Exynos 990",
       "RAM": 8,
@@ -47,7 +47,7 @@
     "type": "phones",
     "brand": "Samsung",
     "title": "Galaxy A12",
-    "cost": 12999,
+    "cost": 214,
     "charcs": {
       "CPU": "Helio P35",
       "RAM": 3,
@@ -61,7 +61,7 @@
     "type": "phones",
     "brand": "Huawei",
     "title": "Nova 9 SE",
-    "cost": 20999,
+    "cost": 345,
     "charcs": {
       "CPU": "Snapdragon 680",
       "RAM": 8,
@@ -75,7 +75,7 @@
     "type": "phones",
     "brand": "Huawei",
     "title": "P50 Pro",
-    "cost": 69999,
+    "cost": 1152,
     "charcs": {
       "CPU": "Snapdragon 888",
       "RAM": 8,
@@ -89,7 +89,7 @@
     "type": "phones",
     "brand": "Huawei",
     "title": "P40 Lite",
-    "cost": 20599,
+    "cost": 339,
     "charcs": {
       "CPU": "Kirin 810",
       "RAM": 6,
@@ -103,7 +103,7 @@
     "type": "phones",
     "brand": "Xiaomi",
     "title": "Redmi Note 8",
-    "cost": 13999,
+    "cost": 230,
     "charcs": {
       "CPU": "Helio G85",
       "RAM": 4,
@@ -117,7 +117,7 @@
     "type": "phones",
     "brand": "Xiaomi",
     "title": "Redmi Note 10 Pro",
-    "cost": 26999,
+    "cost": 444,
     "charcs": {
       "CPU": "Snapdragon 732G",
       "RAM": 8,
@@ -131,7 +131,7 @@
     "type": "phones",
     "brand": "Xiaomi",
     "title": "Redmi Note 11",
-    "cost": 15999,
+    "cost": 263,
     "charcs": {
       "CPU": "Snapdragon 680",
       "RAM": 4,
@@ -145,7 +145,7 @@
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad 330",
-    "cost": 24899,
+    "cost": 410,
     "charcs": {
       "CPU": "Intel core i3 6006U",
       "RAM": 4,
@@ -159,7 +159,7 @@
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad 5 Pro",
-    "cost": 77999,
+    "cost": 1284,
     "charcs": {
       "CPU": "Intel core i5 1135G7",
       "RAM": 16,
@@ -173,7 +173,7 @@
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad 3",
-    "cost": 54999,
+    "cost": 905,
     "charcs": {
       "CPU": "AMD Ryzen 5 4500U",
       "RAM": 8,
@@ -187,7 +187,7 @@
     "type": "laptops",
     "brand": "ASUS",
     "title": "VivoBook 15",
-    "cost": 46999,
+    "cost": 773,
     "charcs": {
       "CPU": "Intel core i3 1115G4",
       "RAM": 8,
@@ -201,7 +201,7 @@
     "type": "laptops",
     "brand": "ASUS",
     "title": "VivoBook S14",
-    "cost": 59999,
+    "cost": 988,
     "charcs": {
       "CPU": "Intel core i5 1035G1",
       "RAM": 8,
@@ -215,7 +215,7 @@
     "type": "laptops",
     "brand": "Acer",
     "title": "Nitro 5",
-    "cost": 77999,
+    "cost": 1284,
     "charcs": {
       "CPU": "Intel core i5 11300H",
       "RAM": 8,
@@ -229,7 +229,7 @@
     "type": "laptops",
     "brand": "Acer",
     "title": "Aspire 3",
-    "cost": 39999,
+    "cost": 658,
     "charcs": {
       "CPU": "AMD Ryzen 5 3500U",
       "RAM": 8,
@@ -243,7 +243,7 @@
     "type": "laptops",
     "brand": "HP",
     "title": "Pavilion 15",
-    "cost": 46999,
+    "cost": 773,
     "charcs": {
       "CPU": "AMD Ryzen 3 5300U",
       "RAM": 8,
@@ -257,7 +257,7 @@
     "type": "laptops",
     "brand": "HP",
     "title": "Pavilion Aero 13",
-    "cost": 52999,
+    "cost": 872,
     "charcs": {
       "CPU": "AMD Ryzen 5 5600U",
       "RAM": 8,
@@ -271,7 +271,7 @@
     "type": "laptops",
     "brand": "HP",
     "title": "Pavilion 14",
-    "cost": 44999,
+    "cost": 741,
     "charcs": {
       "CPU": "AMD Ryzen 3 5300U",
       "RAM": 8,
@@ -285,11 +285,11 @@
     "type": "computers",
     "brand": "DEXP",
     "title": "Atlas H337",
-    "cost": 12599,
+    "cost": 207,
     "charcs": {
       "CPU": "Celeron N4120",
       "RAM": 4,
-      "Storage": 120
+      "SSD": 120
     }
   },
   {
@@ -298,11 +298,11 @@
     "type": "computers",
     "brand": "DEXP",
     "title": "Atlas H326",
-    "cost": 37499,
+    "cost": 617,
     "charcs": {
       "CPU": "Core i3 10100F",
       "RAM": 8,
-      "Storage": 512
+      "SSD": 512
     }
   },
   {
@@ -311,11 +311,11 @@
     "type": "computers",
     "brand": "DEXP",
     "title": "Atlas H299",
-    "cost": 31499,
+    "cost": 518,
     "charcs": {
       "CPU": "Core i5 10400",
       "RAM": 16,
-      "Storage": 240
+      "SSD": 240
     }
   },
   {
@@ -324,11 +324,11 @@
     "type": "computers",
     "brand": "ZET",
     "title": "Gaming NEO M056",
-    "cost": 62999,
+    "cost": 1037,
     "charcs": {
       "CPU": "Core i5 11400F",
       "RAM": 16,
-      "Storage": 512
+      "SSD": 512
     }
   },
   {
@@ -337,11 +337,11 @@
     "type": "computers",
     "brand": "ZET",
     "title": "Gaming NEO M045",
-    "cost": 44999,
+    "cost": 741,
     "charcs": {
       "CPU": "Core i3 10105F",
       "RAM": 16,
-      "Storage": 512
+      "SSD": 512
     }
   },
   {
@@ -350,11 +350,11 @@
     "type": "computers",
     "brand": "ZET",
     "title": "Gaming NEO M026",
-    "cost": 49999,
+    "cost": 823,
     "charcs": {
       "CPU": "Core i3 10100F",
       "RAM": 16,
-      "Storage": 500
+      "SSD": 500
     }
   },
   {
@@ -363,11 +363,11 @@
     "type": "computers",
     "brand": "Raskat",
     "title": "Strike 520",
-    "cost": 76999,
+    "cost": 1268,
     "charcs": {
       "CPU": "Core i5 10400F",
       "RAM": 16,
-      "Storage": 1000
+      "SSD": 1000
     }
   },
   {
@@ -376,11 +376,11 @@
     "type": "computers",
     "brand": "Raskat",
     "title": "Strike 320",
-    "cost": 90299,
+    "cost": 1487,
     "charcs": {
       "CPU": "Core i5 12100F",
       "RAM": 16,
-      "Storage": 1000
+      "SSD": 1000
     }
   },
   {
@@ -389,11 +389,11 @@
     "type": "computers",
     "brand": "Raskat",
     "title": "Strike 520",
-    "cost": 123499,
+    "cost": 2033,
     "charcs": {
       "CPU": "Core i5 10400",
       "RAM": 16,
-      "Storage": 500
+      "SSD": 500
     }
   },
   {
@@ -402,11 +402,11 @@
     "type": "computers",
     "brand": "Raskat",
     "title": "Standart 700",
-    "cost": 49999,
+    "cost": 823,
     "charcs": {
       "CPU": "Core i7 10700",
       "RAM": 16,
-      "Storage": 480
+      "SSD": 480
     }
   },
   {
@@ -415,7 +415,7 @@
     "type": "tablets",
     "brand": "Irbis",
     "title": "TZ719",
-    "cost": 3499,
+    "cost": 57,
     "charcs": {
       "CPU": "Spreadtrum SC7731E",
       "RAM": 1,
@@ -429,7 +429,7 @@
     "type": "tablets",
     "brand": "Irbis",
     "title": "TZ725",
-    "cost": 2495,
+    "cost": 41,
     "charcs": {
       "CPU": "Spreadtrum SC7731C",
       "RAM": 1,
@@ -443,7 +443,7 @@
     "type": "tablets",
     "brand": "Irbis",
     "title": "TZ757",
-    "cost": 2599,
+    "cost": 42,
     "charcs": {
       "CPU": "Spreadtrum SC7731",
       "RAM": 1,
@@ -457,7 +457,7 @@
     "type": "tablets",
     "brand": "BQ",
     "title": "7098G",
-    "cost": 4499,
+    "cost": 74,
     "charcs": {
       "CPU": "Spreadtrum SC7731E",
       "RAM": 1,
@@ -471,7 +471,7 @@
     "type": "tablets",
     "brand": "BQ",
     "title": "7083G",
-    "cost": 4999,
+    "cost": 82,
     "charcs": {
       "CPU": "Spreadtrum SC7731E",
       "RAM": 1,
@@ -485,7 +485,7 @@
     "type": "tablets",
     "brand": "BQ",
     "title": "7000G",
-    "cost": 4599,
+    "cost": 75,
     "charcs": {
       "CPU": "Unisoc SC7731E",
       "RAM": 1,
@@ -499,7 +499,7 @@
     "type": "tablets",
     "brand": "TCL",
     "title": "NXTPAPER 10s",
-    "cost": 16999,
+    "cost": 279,
     "charcs": {
       "CPU": "MediaTek MT8768",
       "RAM": 4,
@@ -513,7 +513,7 @@
     "type": "tablets",
     "brand": "TCL",
     "title": "NXTPAPER 10s LTE",
-    "cost": 18999,
+    "cost": 312,
     "charcs": {
       "CPU": "MediaTek MT8768",
       "RAM": 4,
@@ -527,7 +527,7 @@
     "type": "tablets",
     "brand": "TCL",
     "title": "TABMAX 10",
-    "cost": 18999,
+    "cost": 312,
     "charcs": {
       "CPU": "MediaTek MT8788A",
       "RAM": 4,
@@ -541,7 +541,7 @@
     "type": "tablets",
     "brand": "Nokia",
     "title": "T20",
-    "cost": 17999,
+    "cost": 295,
     "charcs": {
       "CPU": "Unisoc Tiger T610",
       "RAM": 4,
@@ -555,7 +555,7 @@
     "type": "devices",
     "brand": "Logitech",
     "title": "H110",
-    "cost": 1299,
+    "cost": 21,
     "charcs": {
       "Frequency": "20Гц - 20кГц",
       "Resistance": 32,
@@ -568,7 +568,7 @@
     "type": "devices",
     "brand": "Logitech",
     "title": "G435",
-    "cost": 6399,
+    "cost": 105,
     "charcs": {
       "Frequency": "20Гц - 20кГц",
       "Resistance": 45,
@@ -581,7 +581,7 @@
     "type": "devices",
     "brand": "Logitech",
     "title": "G432",
-    "cost": 5199,
+    "cost": 85,
     "charcs": {
       "Frequency": "20Гц - 20кГц",
       "Resistance": 39,
@@ -594,7 +594,7 @@
     "type": "devices",
     "brand": "Logitech",
     "title": "G733",
-    "cost": 14999,
+    "cost": 246,
     "charcs": {
       "Frequency": "20Гц - 20кГц",
       "Resistance": 39,
@@ -607,9 +607,9 @@
     "type": "devices",
     "brand": "ExeGate",
     "title": "LY-331",
-    "cost": 399,
+    "cost": 6,
     "charcs": {
-      "Keys": 104,
+      "Keys": "104",
       "Connection": "USB"
     }
   },
@@ -619,9 +619,9 @@
     "type": "devices",
     "brand": "ExeGate",
     "title": "LY-401",
-    "cost": 399,
+    "cost": 6,
     "charcs": {
-      "Keys": 104,
+      "Keys": "104",
       "Connection": "USB"
     }
   },
@@ -631,9 +631,9 @@
     "type": "devices",
     "brand": "ExeGate",
     "title": "LY-405",
-    "cost": 399,
+    "cost": 6,
     "charcs": {
-      "Keys": 105,
+      "Keys": "105",
       "Connection": "USB"
     }
   },
@@ -643,7 +643,7 @@
     "type": "devices",
     "brand": "Aceline",
     "title": "CM-408BU",
-    "cost": 199,
+    "cost": 3,
     "charcs": {
       "Resolution": "800dpi",
       "Connection": "USB Type-A"
@@ -655,22 +655,1524 @@
     "type": "devices",
     "brand": "Aceline",
     "title": "CM-906BU",
-    "cost": 199,
+    "cost": 3,
     "charcs": {
       "Resolution": "1200dpi",
       "Connection": "USB Type-A"
     }
   },
+  
   {
     "id": 50,
     "img": "",
     "type": "devices",
     "brand": "Oklick",
     "title": "115S",
-    "cost": 199,
+    "cost": 3,
     "charcs": {
       "Resolution": "1200dpi",
       "Connection": "USB Type-A"
+    }
+  },
+
+  {
+    "id": 51,
+    "img": "",
+    "type": "laptops",
+    "brand": "HUAWEI",
+    "title": "MateBook 16",
+    "cost": 1400,
+    "charcs": {
+      "CPU": "AMD Ryzen 7 5800H",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 52,
+    "img": "",
+    "type": "laptops",
+    "brand": "Honor",
+    "title": "MagicBook X 14",
+    "cost": 1200,
+    "charcs": {
+      "CPU": "Intel Core i5",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 53,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "GF66 Katana",
+    "cost": 1800,
+    "charcs": {
+      "CPU": "Intel Core i7",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+  
+  {
+    "id": 54,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "Modern 14",
+    "cost": 620,
+    "charcs": {
+      "CPU": "Intel core i3 1115G4",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 55,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "IdeaPad 3",
+    "cost": 800,
+    "charcs": {
+      "CPU": "Intel Core i5-1135G7",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 56,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "Laptop 15s",
+    "cost": 700,
+    "charcs": {
+      "CPU": "Intel Core i3-1125G4",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 57,
+    "img": "",
+    "type": "laptops",
+    "brand": "Apple",
+    "title": "MacBook Pro",
+    "cost": 2600,
+    "charcs": {
+      "CPU": "Apple M1 Pro",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "mini-LED"
+    }
+  },
+
+  {
+    "id": 58,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "Prestige 14",
+    "cost": 1200,
+    "charcs": {
+      "CPU": "Intel Core i5-1240P",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 59,
+    "img": "",
+    "type": "laptops",
+    "brand": "AORUS",
+    "title": "17 KE4",
+    "cost": 700,
+    "charcs": {
+      "CPU": "Intel Core i7-12700H",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 60,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "OMEN 16",
+    "cost": 1700,
+    "charcs": {
+      "CPU": "AMD Ryzen 7 5800H",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  }, 
+
+  {
+    "id": 61,
+    "img": "",
+    "type": "laptops",
+    "brand": "HUAWEI",
+    "title": "MateBook X Pro",
+    "cost": 1800,
+    "charcs": {
+      "CPU": "Intel Core i7-1260P",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  }, 
+
+  {
+    "id": 62,
+    "img": "",
+    "type": "laptops",
+    "brand": "AORUS",
+    "title": "5 SE4",
+    "cost": 1600,
+    "charcs": {
+      "CPU": "Intel Core i7-12700H",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  }, 
+
+  {
+    "id": 63,
+    "img": "",
+    "type": "laptops",
+    "brand": "HUAWEI",
+    "title": "MateBook 16s",
+    "cost": 1650,
+    "charcs": {
+      "CPU": "Intel Core i7-12700H",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  }, 
+
+  {
+    "id": 64,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "Legion 7",
+    "cost": 1650,
+    "charcs": {
+      "CPU": "AMD Ryzen 7 5800H",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  }, 
+
+  {
+    "id": 65,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "Summit E13",
+    "cost": 1700,
+    "charcs": {
+      "CPU": "Intel Core i7-1280P",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  }, 
+
+  {
+    "id": 66,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "GF76 Katana",
+    "cost": 2000,
+    "charcs": {
+      "CPU": "Intel Core i7-12700H",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  }, 
+
+  {
+    "id": 67,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "Prestige 14",
+    "cost": 1400,
+    "charcs": {
+      "CPU": "Intel Core i7-1280P",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  }, 
+
+  {
+    "id": 68,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "Laptop 17",
+    "cost": 1050,
+    "charcs": {
+      "CPU": "AMD Ryzen 3 5300U",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 69,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "ThinkBook 15",
+    "cost": 1100,
+    "charcs": {
+      "CPU": "Intel Core i5-1135G7",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 70,
+    "img": "",
+    "type": "laptops",
+    "brand": "Acer",
+    "title": "Aspire 5",
+    "cost": 1100,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 5500U",
+      "RAM": 24,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 71,
+    "img": "",
+    "type": "laptops",
+    "brand": "GIGABYTE",
+    "title": "G7",
+    "cost": 900,
+    "charcs": {
+      "CPU": "Intel Core i5-11400H",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 72,
+    "img": "",
+    "type": "laptops",
+    "brand": "GIGABYTE",
+    "title": "AERO 17",
+    "cost": 2500,
+    "charcs": {
+      "CPU": "Intel Core i7-12700H",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "mini-LED"
+    }
+  },
+
+  {
+    "id": 73,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "Creator Z17",
+    "cost": 3600,
+    "charcs": {
+      "CPU": "Intel Core i7-12700H",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 74,
+    "img": "",
+    "type": "laptops",
+    "brand": "AORUS",
+    "title": "15P XD",
+    "cost": 2000,
+    "charcs": {
+      "CPU": "Intel Core i7-11800H",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 75,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "IdeaPad 3",
+    "cost": 450,
+    "charcs": {
+      "CPU": "AMD 3020e",
+      "RAM": 4,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 76,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "V15 G2",
+    "cost": 900,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 5500U",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "TN+film"
+    }
+  },
+
+  {
+    "id": 77,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "Laptop 15s",
+    "cost": 700,
+    "charcs": {
+      "CPU": "AMD Ryzen 3 5300U",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 78,
+    "img": "",
+    "type": "laptops",
+    "brand": "HUAWEI",
+    "title": "MateBook 14",
+    "cost": 1100,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 5500U",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 79,
+    "img": "",
+    "type": "laptops",
+    "brand": "Acer",
+    "title": "Aspire 7",
+    "cost": 1100,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 5500U",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 80,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "IdeaPad 3",
+    "cost": 700,
+    "charcs": {
+      "CPU": "Intel Core i3-1115G4",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 81,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "Laptop 17",
+    "cost": 1300,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 5500U",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 82,
+    "img": "",
+    "type": "laptops",
+    "brand": "AORUS",
+    "title": "17 KE4",
+    "cost": 2000,
+    "charcs": {
+      "CPU": "Intel Core i7-12700H",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 83,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "IdeaPad 5",
+    "cost": 800,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 5500U",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 84,
+    "img": "",
+    "type": "laptops",
+    "brand": "Acer",
+    "title": "Nitro 5",
+    "cost": 1400,
+    "charcs": {
+      "CPU": "Intel Core i5-11400H",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 85,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "Katana GF76",
+    "cost": 1300,
+    "charcs": {
+      "CPU": "Intel Core i5-12450H",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 86,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "Victus 16",
+    "cost": 1400,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 5600H",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 87,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "Legion 5",
+    "cost": 2500,
+    "charcs": {
+      "CPU": "AMD Ryzen 7 5800H",
+      "RAM": 16,
+      "Storage": 2000,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 88,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "V15 G2",
+    "cost": 600,
+    "charcs": {
+      "CPU": "Intel Core i3-1115G4",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "TN+film"
+    }
+  },
+
+  {
+    "id": 89,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "IdeaPad 3",
+    "cost": 900,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 5500U",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 90,
+    "img": "",
+    "type": "laptops",
+    "brand": "Apple",
+    "title": "MacBook Pro",
+    "cost": 1700,
+    "charcs": {
+      "CPU": "Apple M2",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 91,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "Probook 455 G8",
+    "cost": 1100,
+    "charcs": {
+      "CPU": "AMD Ryzen 7 5800U",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 92,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "Summit E13",
+    "cost": 1600,
+    "charcs": {
+      "CPU": "Intel Core i5-1240P",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 93,
+    "img": "",
+    "type": "laptops",
+    "brand": "Acer",
+    "title": "Aspire 3",
+    "cost": 900,
+    "charcs": {
+      "CPU": "Intel Core i5-1135G7",
+      "RAM": 8,
+      "Storage": 1000,
+      "Display": "TN+film"
+    }
+  },
+
+  {
+    "id": 94,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "Crosshair 15",
+    "cost": 2500,
+    "charcs": {
+      "CPU": "Intel Core i7-12700H",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  },
+
+
+  {
+    "id": 95,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "IdeaPad Gaming 3",
+    "cost": 1200,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 5600H",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 96,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "Modern 14",
+    "cost": 650,
+    "charcs": {
+      "CPU": "Intel Core i5-1155G7",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 97,
+    "img": "",
+    "type": "laptops",
+    "brand": "HUAWEI",
+    "title": "MateBook D 14",
+    "cost": 800,
+    "charcs": {
+      "CPU": "Intel Core i5-1135G7",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 98,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "V15 G3",
+    "cost": 900,
+    "charcs": {
+      "CPU": "Intel Core i5-1235U",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "TN+film"
+    }
+  },
+
+  {
+    "id": 99,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "Modern 15",
+    "cost": 1000,
+    "charcs": {
+      "CPU": "Intel Core i5-1235U",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "TN+film"
+    }
+  },
+
+  {
+    "id": 100,
+    "img": "",
+    "type": "laptops",
+    "brand": "ASUS",
+    "title": "UF Dash F15",
+    "cost": 1200,
+    "charcs": {
+      "CPU": "Intel Core i5-11300H",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 101,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "Creator Z16P",
+    "cost": 3200,
+    "charcs": {
+      "CPU": "Intel Core i7-12700H",
+      "RAM": 32,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 102,
+    "img": "",
+    "type": "laptops",
+    "brand": "Maibenben",
+    "title": "M547",
+    "cost": 800,
+    "charcs": {
+      "CPU": "AMD Ryzen 7 4700U",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 103,
+    "img": "",
+    "type": "laptops",
+    "brand": "Honor",
+    "title": "MagicBook X15",
+    "cost": 800,
+    "charcs": {
+      "CPU": "Intel Core i3-10110U",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 104,
+    "img": "",
+    "type": "laptops",
+    "brand": "GIGABYTE",
+    "title": "A5 X1",
+    "cost": 2200,
+    "charcs": {
+      "CPU": "AMD Ryzen 9 5900HX",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 105,
+    "img": "",
+    "type": "laptops",
+    "brand": "Honor",
+    "title": "MagicBook Pro",
+    "cost": 2200,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 4600H",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 106,
+    "img": "",
+    "type": "laptops",
+    "brand": "Honor",
+    "title": "MagicBook Pro",
+    "cost": 1150,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 4600H",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 107,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "Probook 455 G8",
+    "cost": 1000,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 5600U",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 108,
+    "img": "",
+    "type": "laptops",
+    "brand": "ASUS",
+    "title": "VivoBook 15",
+    "cost": 900,
+    "charcs": {
+      "CPU": "Intel Core i5-1135G7",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "OLED"
+    }
+  },
+
+  {
+    "id": 109,
+    "img": "",
+    "type": "laptops",
+    "brand": "Apple",
+    "title": "MacBook Air",
+    "cost": 900,
+    "charcs": {
+      "CPU": "Apple M1",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 110,
+    "img": "",
+    "type": "laptops",
+    "brand": "Irbis",
+    "title": "NB704",
+    "cost": 350,
+    "charcs": {
+      "CPU": "Intel Pentium J3710",
+      "RAM": 4,
+      "Storage": 128,
+      "Display": "TN+film"
+    }
+  },
+
+  {
+    "id": 111,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "Summit E13 Flip Evo",
+    "cost": 1500,
+    "charcs": {
+      "CPU": "Intel Core i5-1240P",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 112,
+    "img": "",
+    "type": "laptops",
+    "brand": "AORUS",
+    "title": "17G KD",
+    "cost": 2400,
+    "charcs": {
+      "CPU": "Intel Core i7-11800H",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 113,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "ThinkBook 15",
+    "cost": 1250,
+    "charcs": {
+      "CPU": "Intel Core i5-1240P",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 114,
+    "img": "",
+    "type": "laptops",
+    "brand": "Acer",
+    "title": "Extensa 15",
+    "cost": 500,
+    "charcs": {
+      "CPU": "Intel Core i3-1005G1",
+      "RAM": 4,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 115,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "IdeaPad 3",
+    "cost": 600,
+    "charcs": {
+      "CPU": "Intel Pentium Gold 7505",
+      "RAM": 4,
+      "Storage": 128,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 116,
+    "img": "",
+    "type": "laptops",
+    "brand": "Acer",
+    "title": "Aspire 3",
+    "cost": 850,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 3500U",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 117,
+    "img": "",
+    "type": "laptops",
+    "brand": "ASUS",
+    "title": "VivoBook 15",
+    "cost": 1100,
+    "charcs": {
+      "CPU": "Intel Core i7-1165G7",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "OLED"
+    }
+  },
+
+  {
+    "id": 118,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "Victus 16",
+    "cost": 1400,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 5600H",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 119,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "GF76 Katana",
+    "cost": 1300,
+    "charcs": {
+      "CPU": "Intel Core i7-11800H",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 120,
+    "img": "",
+    "type": "laptops",
+    "brand": "Maibenben",
+    "title": "M547",
+    "cost": 700,
+    "charcs": {
+      "CPU": "AMD Ryzen 7 4700U",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 121,
+    "img": "",
+    "type": "laptops",
+    "brand": "HUAWEI",
+    "title": "MateBook D 15",
+    "cost": 1200,
+    "charcs": {
+      "CPU": "Intel Core i7-1165G7",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 122,
+    "img": "",
+    "type": "laptops",
+    "brand": "Honor",
+    "title": "MagicBook 14",
+    "cost": 1100,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 5500U",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 123,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "245 G8",
+    "cost": 1100,
+    "charcs": {
+      "CPU": "AMD Ryzen 3 5300U",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 124,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "Pavilion x360 14",
+    "cost": 500,
+    "charcs": {
+      "CPU": "Intel Core i3-1125G4",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 125,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "OMEN 16",
+    "cost": 1300,
+    "charcs": {
+      "CPU": "AMD Ryzen 7 5800H",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 126,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "OMEN 16",
+    "cost": 2200,
+    "charcs": {
+      "CPU": "AMD Ryzen 7 5800H",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 127,
+    "img": "",
+    "type": "laptops",
+    "brand": "ASUS",
+    "title": "Laptop 15",
+    "cost": 600,
+    "charcs": {
+      "CPU": "Intel Core i3-1115G4",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 128,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "IdeaPad Gaming 3",
+    "cost": 1300,
+    "charcs": {
+      "CPU": "AMD Ryzen 7 5800H",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 129,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "Legion 7",
+    "cost": 2200,
+    "charcs": {
+      "CPU": "AMD Ryzen 7 5800H",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 130,
+    "img": "",
+    "type": "laptops",
+    "brand": "GIGABYTE",
+    "title": "U4 UD",
+    "cost": 1000,
+    "charcs": {
+      "CPU": "Intel Core i5-1155G7",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 131,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "IdeaPad 3",
+    "cost": 400,
+    "charcs": {
+      "CPU": "Intel Core i3-1115G4",
+      "RAM": 4,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 132,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "ThinkBook 15 G2 ITL",
+    "cost": 1800,
+    "charcs": {
+      "CPU": "Intel Core i7-1165G7",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 133,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "IdeaPad L3",
+    "cost": 900,
+    "charcs": {
+      "CPU": "Intel core i5 1135G7",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 134,
+    "img": "",
+    "type": "laptops",
+    "brand": "Acer",
+    "title": "Nitro 5",
+    "cost": 1700,
+    "charcs": {
+      "CPU": "AMD Ryzen 7 5600H",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 135,
+    "img": "",
+    "type": "laptops",
+    "brand": "ASUS",
+    "title": "ROG Zephyrus",
+    "cost": 4000,
+    "charcs": {
+      "CPU": "Intel Core i9-12900H",
+      "RAM": 32,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 136,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "250 G7",
+    "cost": 4000,
+    "charcs": {
+      "CPU": "Intel Celeron N4020,",
+      "RAM": 4,
+      "Storage": 128,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 137,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "BRAvo 15",
+    "cost": 1100,
+    "charcs": {
+      "CPU": "AMD Ryzen 5 5600H",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 138,
+    "img": "",
+    "type": "laptops",
+    "brand": "ASUS",
+    "title": "ZenBook 14X OLED",
+    "cost": 1100,
+    "charcs": {
+      "CPU": "Intel Core i5-1135G7",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "OLED"
+    }
+  },
+
+  {
+    "id": 139,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "Pavilion Gaming 17",
+    "cost": 1400,
+    "charcs": {
+      "CPU": "Intel Core i5-11300H",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 140,
+    "img": "",
+    "type": "laptops",
+    "brand": "ASUS",
+    "title": "ZenBook 14X OLED",
+    "cost": 1300,
+    "charcs": {
+      "CPU": "Core i5-1135G7",
+      "RAM": 8,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 141,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "250 G8",
+    "cost": 500,
+    "charcs": {
+      "CPU": "Core i3 10105F",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 142,
+    "img": "",
+    "type": "laptops",
+    "brand": "Irbis",
+    "title": "NB275",
+    "cost": 400,
+    "charcs": {
+      "CPU": "Intel Pentium J3710",
+      "RAM": 4,
+      "Storage": 128,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 143,
+    "img": "",
+    "type": "laptops",
+    "brand": "Acer",
+    "title": "Extensa 15",
+    "cost": 400,
+    "charcs": {
+      "CPU": "Intel Celeron N4020",
+      "RAM": 4,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 144,
+    "img": "",
+    "type": "laptops",
+    "brand": "GIGABYTE",
+    "title": "G5 MD",
+    "cost": 1500,
+    "charcs": {
+      "CPU": "Intel Core i5-11400H",
+      "RAM": 16,
+      "Storage": 512,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 145,
+    "img": "",
+    "type": "laptops",
+    "brand": "Acer",
+    "title": "Spin 1",
+    "cost": 500,
+    "charcs": {
+      "CPU": "Intel Pentium Silver N6000",
+      "RAM": 4,
+      "Storage": 128,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 146,
+    "img": "",
+    "type": "laptops",
+    "brand": "Acer",
+    "title": "Spin 1",
+    "cost": 400,
+    "charcs": {
+      "CPU": "Intel Pentium Silver N6000",
+      "RAM": 4,
+      "Storage": 128,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 147,
+    "img": "",
+    "type": "laptops",
+    "brand": "Lenovo",
+    "title": "IdeaPad 5 Pro",
+    "cost": 1500,
+    "charcs": {
+      "CPU": "AMD Ryzen 7 5800U",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 148,
+    "img": "",
+    "type": "laptops",
+    "brand": "AORUS",
+    "title": "15P KD",
+    "cost": 2000,
+    "charcs": {
+      "CPU": " Intel Core i7-11800H",
+      "RAM": 16,
+      "Storage": 1000,
+      "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 149,
+    "img": "",
+    "type": "laptops",
+    "brand": "MSI",
+    "title": "Modern 14",
+    "cost": 700,
+    "charcs": {
+      "CPU": "Intel Core i3-1215U",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
+    }
+  }, 
+
+  {
+    "id": 150,
+    "img": "",
+    "type": "laptops",
+    "brand": "HP",
+    "title": "Pavilion 15",
+    "cost": 900,
+    "charcs": {
+      "CPU": "Intel Core i5-1135G7",
+      "RAM": 8,
+      "Storage": 256,
+      "Display": "IPS"
     }
   }
 ]
