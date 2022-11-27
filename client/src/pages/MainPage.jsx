@@ -28,7 +28,8 @@ export default function MainPage() {
           </div>
 
           <div className="add__slider">
-            <Slider elWidth={570}>
+            <Slider elWidth={570} dots={true} buttons={false}>
+              <img src={vr} alt="" />
               <img src={vr} alt="" />
               <img src={iphone} alt="" />
             </Slider>
@@ -51,7 +52,7 @@ export default function MainPage() {
           </div>
 
           <div className="novelty__slider">
-            <Slider elWidth={300} elCount={4}>
+            <Slider elWidth={300} elsCount={4}>
               {products.map((product, index) => (
                 <Product product={product} key={index} />
               ))}
