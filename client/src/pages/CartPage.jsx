@@ -89,7 +89,7 @@ export default function CartPage() {
               <Link to="/" className="link__main">
                 here
               </Link>{" "}
-              to go to the main page
+              to go to the main
             </p>
           </div>
         </div>

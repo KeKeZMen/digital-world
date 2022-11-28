@@ -289,7 +289,7 @@
     "charcs": {
       "CPU": "Celeron N4120",
       "RAM": 4,
-      "SSD": 120
+      "Storage": 120
     }
   },
   {
@@ -302,7 +302,7 @@
     "charcs": {
       "CPU": "Core i3 10100F",
       "RAM": 8,
-      "SSD": 512
+      "Storage": 512
     }
   },
   {
@@ -315,7 +315,7 @@
     "charcs": {
       "CPU": "Core i5 10400",
       "RAM": 16,
-      "SSD": 240
+      "Storage": 240
     }
   },
   {
@@ -328,7 +328,7 @@
     "charcs": {
       "CPU": "Core i5 11400F",
       "RAM": 16,
-      "SSD": 512
+      "Storage": 512
     }
   },
   {
@@ -341,7 +341,7 @@
     "charcs": {
       "CPU": "Core i3 10105F",
       "RAM": 16,
-      "SSD": 512
+      "Storage": 512
     }
   },
   {
@@ -354,7 +354,7 @@
     "charcs": {
       "CPU": "Core i3 10100F",
       "RAM": 16,
-      "SSD": 500
+      "Storage": 500
     }
   },
   {
@@ -367,7 +367,7 @@
     "charcs": {
       "CPU": "Core i5 10400F",
       "RAM": 16,
-      "SSD": 1000
+      "Storage": 1000
     }
   },
   {
@@ -380,7 +380,7 @@
     "charcs": {
       "CPU": "Core i5 12100F",
       "RAM": 16,
-      "SSD": 1000
+      "Storage": 1000
     }
   },
   {
@@ -393,7 +393,7 @@
     "charcs": {
       "CPU": "Core i5 10400",
       "RAM": 16,
-      "SSD": 500
+      "Storage": 500
     }
   },
   {
@@ -406,7 +406,7 @@
     "charcs": {
       "CPU": "Core i7 10700",
       "RAM": 16,
-      "SSD": 480
+      "Storage": 480
     }
   },
   {
