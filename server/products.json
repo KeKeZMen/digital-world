@@ -661,7 +661,7 @@
       "Connection": "USB Type-A"
     }
   },
-  
+
   {
     "id": 50,
     "img": "",
@@ -719,7 +719,7 @@
       "Display": "IPS"
     }
   },
-  
+
   {
     "id": 54,
     "img": "",
@@ -823,7 +823,7 @@
       "Storage": 512,
       "Display": "IPS"
     }
-  }, 
+  },
 
   {
     "id": 61,
@@ -838,7 +838,7 @@
       "Storage": 1000,
       "Display": "IPS"
     }
-  }, 
+  },
 
   {
     "id": 62,
@@ -853,7 +853,7 @@
       "Storage": 1000,
       "Display": "IPS"
     }
-  }, 
+  },
 
   {
     "id": 63,
@@ -868,7 +868,7 @@
       "Storage": 1000,
       "Display": "IPS"
     }
-  }, 
+  },
 
   {
     "id": 64,
@@ -883,7 +883,7 @@
       "Storage": 1000,
       "Display": "IPS"
     }
-  }, 
+  },
 
   {
     "id": 65,
@@ -898,7 +898,7 @@
       "Storage": 512,
       "Display": "IPS"
     }
-  }, 
+  },
 
   {
     "id": 66,
@@ -913,7 +913,7 @@
       "Storage": 1000,
       "Display": "IPS"
     }
-  }, 
+  },
 
   {
     "id": 67,
@@ -928,7 +928,7 @@
       "Storage": 512,
       "Display": "IPS"
     }
-  }, 
+  },
 
   {
     "id": 68,
@@ -1334,7 +1334,6 @@
       "Display": "IPS"
     }
   },
-
 
   {
     "id": 95,
@@ -2159,8 +2158,7 @@
       "Storage": 256,
       "Display": "IPS"
     }
-  }, 
-
+  },
   {
     "id": 150,
     "img": "",
@@ -2173,6 +2171,867 @@
       "RAM": 8,
       "Storage": 256,
       "Display": "IPS"
+    }
+  },
+
+  {
+    "id": 151,
+    "img": "",
+    "type": "computers",
+    "brand": "ZET Gaming",
+    "title": "WARD H274",
+    "cost": 2033,
+    "charcs": {
+      "CPU": "Core i7-12700KF",
+      "RAM": 32,
+      "Storage": 1000
+    }
+  },
+
+  {
+    "id": 152,
+    "img": "",
+    "type": "computers",
+    "brand": "ZET Gaming",
+    "title": "NEO M033",
+    "cost": 2000,
+    "charcs": {
+      "CPU": "Intel Core i5-11400F",
+      "RAM": 16,
+      "Storage": 500
+    }
+  },
+
+  {
+    "id": 153,
+    "img": "",
+    "type": "computers",
+    "brand": "ZET Gaming",
+    "title": "WARD H268",
+    "cost": 1300,
+    "charcs": {
+      "CPU": "Intel Core i5-11400F",
+      "RAM": 16,
+      "Storage": 512
+    }
+  },
+
+  {
+    "id": 154,
+    "img": "",
+    "type": "computers",
+    "brand": "MSI",
+    "title": "MAG Infinite",
+    "cost": 1100,
+    "charcs": {
+      "CPU": "Intel Core i5-11400F",
+      "RAM": 16,
+      "Storage": 512
+    }
+  },
+
+  {
+    "id": 155,
+    "img": "",
+    "type": "computers",
+    "brand": "ZET Gaming",
+    "title": "WARD H223",
+    "cost": 2400,
+    "charcs": {
+      "CPU": "Intel Core i7-12700KF",
+      "RAM": 16,
+      "Storage": 1000
+    }
+  },
+
+  {
+    "id": 156,
+    "img": "",
+    "type": "computers",
+    "brand": "Acer",
+    "title": "Nitro N50",
+    "cost": 1100,
+    "charcs": {
+      "CPU": "Intel Core i5-11400F",
+      "RAM": 16,
+      "Storage": 512
+    }
+  },
+
+  {
+    "id": 157,
+    "img": "",
+    "type": "computers",
+    "brand": "ZET Gaming",
+    "title": "WARD H280",
+    "cost": 1300,
+    "charcs": {
+      "CPU": "Intel Core i5-1240P",
+      "RAM": 16,
+      "Storage": 512
+    }
+  },
+
+  {
+    "id": 158,
+    "img": "",
+    "type": "computers",
+    "brand": "ASUS",
+    "title": "ROG Strix",
+    "cost": 2300,
+    "charcs": {
+      "CPU": "Intel Core i7-11700F",
+      "RAM": 16,
+      "Storage": 500
+    }
+  },
+
+  {
+    "id": 159,
+    "img": "",
+    "type": "computers",
+    "brand": "Acer",
+    "title": "Aspire XC-1660",
+    "cost": 800,
+    "charcs": {
+      "CPU": "Intel Core i5-10400",
+      "RAM": 16,
+      "Storage": 256
+    }
+  },
+
+  {
+    "id": 160,
+    "img": "",
+    "type": "computers",
+    "brand": "Acer",
+    "title": "Predator PO3",
+    "cost": 2650,
+    "charcs": {
+      "CPU": "Intel Core i7-11700F",
+      "RAM": 16,
+      "Storage": 1000
+    }
+  },
+
+  {
+    "id": 161,
+    "img": "",
+    "type": "computers",
+    "brand": "DEXP",
+    "title": "Atlas H376",
+    "cost": 1000,
+    "charcs": {
+      "CPU": "Intel Core i7-11700",
+      "RAM": 16,
+      "Storage": 512
+    }
+  },
+
+  {
+    "id": 162,
+    "img": "",
+    "type": "computers",
+    "brand": "HP",
+    "title": "OMEN 25L",
+    "cost": 2000,
+    "charcs": {
+      "CPU": "Intel Core i5-11400F",
+      "RAM": 16,
+      "Storage": 512
+    }
+  },
+
+  {
+    "id": 163,
+    "img": "",
+    "type": "computers",
+    "brand": "IRU Game ",
+    "title": "510B5GMA",
+    "cost": 1600,
+    "charcs": {
+      "CPU": "Intel Core i5-11400F",
+      "RAM": 16,
+      "Storage": 1000
+    }
+  },
+
+  {
+    "id": 164,
+    "img": "",
+    "type": "computers",
+    "brand": "Raskat",
+    "title": "Strike 520",
+    "cost": 2500,
+    "charcs": {
+      "CPU": "Intel Core i5-11600KF",
+      "RAM": 16,
+      "Storage": 1000
+    }
+  },
+
+  {
+    "id": 165,
+    "img": "",
+    "type": "computers",
+    "brand": "Raskat",
+    "title": "Strike 320",
+    "cost": 1300,
+    "charcs": {
+      "CPU": "Intel Core i3-12100F",
+      "RAM": 16,
+      "Storage": 1000
+    }
+  },
+
+  {
+    "id": 166,
+    "img": "",
+    "type": "computers",
+    "brand": "ZET Gaming",
+    "title": "WARD H285",
+    "cost": 1300,
+    "charcs": {
+      "CPU": "Intel Core i5-12400F",
+      "RAM": 16,
+      "Storage": 512
+    }
+  },
+
+  {
+    "id": 167,
+    "img": "",
+    "type": "computers",
+    "brand": "MSI",
+    "title": "MAG Infinite",
+    "cost": 1000,
+    "charcs": {
+      "CPU": "Intel Core i5-12400F",
+      "RAM": 16,
+      "Storage": 512
+    }
+  },
+
+  {
+    "id": 168,
+    "img": "",
+    "type": "computers",
+    "brand": "MSI",
+    "title": "MAG Codex 5",
+    "cost": 1300,
+    "charcs": {
+      "CPU": "Intel Core i5-12400F",
+      "RAM": 16,
+      "Storage": 512
+    }
+  },
+
+  {
+    "id": 169,
+    "img": "",
+    "type": "computers",
+    "brand": "ZET Gaming",
+    "title": "WARD H162",
+    "cost": 1300,
+    "charcs": {
+      "CPU": "Intel Core i5-10400F",
+      "RAM": 16,
+      "Storage": 500
+    }
+  },
+
+  {
+    "id": 170,
+    "img": "",
+    "type": "computers",
+    "brand": "MSI",
+    "title": "MPG Trident AS",
+    "cost": 1100,
+    "charcs": {
+      "CPU": "Intel Core i5-11400F",
+      "RAM": 16,
+      "Storage": 512
+    }
+  },
+
+  {
+    "id": 171,
+    "img": "",
+    "type": "computers",
+    "brand": "MSI",
+    "title": "MAG Codex X5",
+    "cost": 2300,
+    "charcs": {
+      "CPU": "Intel Core i7-12700KF",
+      "RAM": 32,
+      "Storage": 1000
+    }
+  },
+
+  {
+    "id": 172,
+    "img": "",
+    "type": "computers",
+    "brand": "ZET Gaming",
+    "title": "WARD H253",
+    "cost": 1400,
+    "charcs": {
+      "CPU": "Intel Core i5-11400F",
+      "RAM": 16,
+      "Storage": 500
+    }
+  },
+
+  {
+    "id": 173,
+    "img": "",
+    "type": "computers",
+    "brand": "MSI",
+    "title": "MAG Codex X5",
+    "cost": 2300,
+    "charcs": {
+      "CPU": "Intel Core i7-12700KF",
+      "RAM": 32,
+      "Storage": 1000
+    }
+  },
+
+  {
+    "id": 174,
+    "img": "",
+    "type": "computers",
+    "brand": "ZET Gaming",
+    "title": "EVO X007",
+    "cost": 5800,
+    "charcs": {
+      "CPU": "Intel Core i9-12900KF",
+      "RAM": 32,
+      "Storage": 1000
+    }
+  },
+
+  {
+    "id": 175,
+    "img": "",
+    "type": "computers",
+    "brand": "Acer",
+    "title": "Predator PO7-640",
+    "cost": 13000,
+    "charcs": {
+      "CPU": "Intel Core i9-12900K",
+      "RAM": 96,
+      "Storage": 1000
+    }
+  },
+
+  {
+    "id": 176,
+    "img": "",
+    "type": "computers",
+    "brand": "Acer",
+    "title": "Predator PO9-920",
+    "cost": 8000,
+    "charcs": {
+      "CPU": "Intel Core i9-10900X",
+      "RAM": 64,
+      "Storage": 1000
+    }
+  },
+
+  {
+    "id": 177,
+    "img": "",
+    "type": "computers",
+    "brand": "Acer",
+    "title": "Predator PO7-640",
+    "cost": 6600,
+    "charcs": {
+      "CPU": "Intel Core i9-12900K",
+      "RAM": 32,
+      "Storage": 1000
+    }
+  },
+
+  {
+    "id": 178,
+    "img": "",
+    "type": "computers",
+    "brand": "ASUS",
+    "title": "ROG Strix GT35",
+    "cost": 5700,
+    "charcs": {
+      "CPU": "Intel Core i9-11900KF",
+      "RAM": 32,
+      "Storage": 2000
+    }
+  },
+
+  {
+    "id": 179,
+    "img": "",
+    "type": "computers",
+    "brand": "Raskat",
+    "title": "Strike 720",
+    "cost": 5700,
+    "charcs": {
+      "CPU": "Intel Core i7-12700K",
+      "RAM": 32,
+      "Storage": 1000
+    }
+  },
+
+  {
+    "id": 180,
+    "img": "",
+    "type": "computers",
+    "brand": "HYPERPC",
+    "title": "CYBER 3080",
+    "cost": 5500,
+    "charcs": {
+      "CPU": "Intel Core i7-11700KF",
+      "RAM": 32,
+      "Storage": 1000
+    }
+  },
+
+  {
+    "id": 181,
+    "img": "",
+    "type": "devices",
+    "brand": "Logitech",
+    "title": "G PRO X",
+    "cost": 21,
+    "charcs": {
+      "Frequency": "20Гц - 20кГц",
+      "Resistance": 32,
+      "Sensitivity": 92
+    }
+  },
+
+  {
+    "id": 182,
+    "img": "",
+    "type": "devices",
+    "brand": "HyperX",
+    "title": "Cloud Stinger",
+    "cost": 70,
+    "charcs": {
+      "Frequency": "20Гц - 20кГц",
+      "Resistance": 16,
+      "Sensitivity": 99
+    }
+  },
+
+  {
+    "id": 183,
+    "img": "",
+    "type": "devices",
+    "brand": "Edifier",
+    "title": "G2II",
+    "cost": 49,
+    "charcs": {
+      "Frequency": "20Гц - 20кГц",
+      "Resistance": 32,
+      "Sensitivity": 101
+    }
+  },
+
+  {
+    "id": 184,
+    "img": "",
+    "type": "devices",
+    "brand": "Marshall",
+    "title": "Major IV",
+    "cost": 300,
+    "charcs": {
+      "Frequency": "20Гц - 20кГц",
+      "Resistance": 32,
+      "Sensitivity": 99
+    }
+  },
+
+  {
+    "id": 185,
+    "img": "",
+    "type": "devices",
+    "brand": "Logitech",
+    "title": "G435",
+    "cost": 280,
+    "charcs": {
+      "Frequency": "20Гц - 27кГц",
+      "Resistance": 45,
+      "Sensitivity": 83.1
+    }
+  },
+
+  {
+    "id": 186,
+    "img": "",
+    "type": "devices",
+    "brand": "SVEN AP",
+    "title": "U980MV",
+    "cost": 40,
+    "charcs": {
+      "Frequency": "20Гц - 20кГц",
+      "Resistance": 32,
+      "Sensitivity": 108
+    }
+  },
+
+  {
+    "id": 186,
+    "img": "",
+    "type": "devices",
+    "brand": "HyperX",
+    "title": "Cloud Alpha",
+    "cost": 110,
+    "charcs": {
+      "Frequency": "20Гц - 23кГц",
+      "Resistance": 65,
+      "Sensitivity": 98
+    }
+  },
+
+  {
+    "id": 187,
+    "img": "",
+    "type": "devices",
+    "brand": "HyperX",
+    "title": "Cloud Alpha S",
+    "cost": 280,
+    "charcs": {
+      "Frequency": "20Гц - 27кГц",
+      "Resistance": 65,
+      "Sensitivity": 99
+    }
+  },
+
+  {
+    "id": 188,
+    "img": "",
+    "type": "devices",
+    "brand": "SteelSeries",
+    "title": "Arctis 5",
+    "cost": 126,
+    "charcs": {
+      "Frequency": "20Гц - 20кГц",
+      "Resistance": 32,
+      "Sensitivity": 98
+    }
+  },
+
+  {
+    "id": 189,
+    "img": "",
+    "type": "devices",
+    "brand": "DEXP",
+    "title": "Storm Pro",
+    "cost": 30,
+    "charcs": {
+      "Frequency": "20Гц - 20кГц",
+      "Resistance": 32,
+      "Sensitivity": 107
+    }
+  },
+
+  {
+    "id": 190,
+    "img": "",
+    "type": "devices",
+    "brand": "ZET GAMING",
+    "title": "Edge",
+    "cost": 60,
+    "charcs": {
+      "Frequency": "20Гц - 20кГц",
+      "Resistance": 32,
+      "Sensitivity": 95
+    }
+  },
+
+  {
+    "id": 191,
+    "img": "",
+    "type": "devices",
+    "brand": "Logitech",
+    "title": "G PRO X",
+    "cost": 150,
+    "charcs": {
+      "Frequency": "20Гц - 20кГц",
+      "Resistance": 35,
+      "Sensitivity": 92
+    }
+  },
+
+  {
+    "id": 192,
+    "img": "",
+    "type": "devices",
+    "brand": "Logitech",
+    "title": "PRO X",
+    "cost": 220,
+    "charcs": {
+      "Resolution": "25600 dpi",
+      "Connection": "USB Type-A"
+    }
+  },
+
+  {
+    "id": 193,
+    "img": "",
+    "type": "devices",
+    "brand": "Logitech",
+    "title": "G502",
+    "cost": 100,
+    "charcs": {
+      "Resolution": "25600 dpi",
+      "Connection": "USB Type-A"
+    }
+  },
+
+  {
+    "id": 194,
+    "img": "",
+    "type": "devices",
+    "brand": "Logitech",
+    "title": "G305",
+    "cost": 90,
+    "charcs": {
+      "Resolution": "12000dpi",
+      "Connection": "USB Type-A"
+    }
+  },
+
+  {
+    "id": 195,
+    "img": "",
+    "type": "devices",
+    "brand": "ZET GAMING",
+    "title": "Immortality PRO",
+    "cost": 85,
+    "charcs": {
+      "Resolution": "19000dpi",
+      "Connection": "USB Type-A"
+    }
+  },
+
+  {
+    "id": 196,
+    "img": "",
+    "type": "devices",
+    "brand": "Bloody",
+    "title": "V8",
+    "cost": 20,
+    "charcs": {
+      "Resolution": "3200dpi",
+      "Connection": "USB Type-A"
+    }
+  },
+
+  {
+    "id": 197,
+    "img": "",
+    "type": "devices",
+    "brand": "Razer",
+    "title": "DeathAdder V2",
+    "cost": 90,
+    "charcs": {
+      "Resolution": "20000dpi",
+      "Connection": "USB Type-A"
+    }
+  },
+
+  {
+    "id": 198,
+    "img": "",
+    "type": "devices",
+    "brand": "Bloody",
+    "title": "R8 SKULL",
+    "cost": 40,
+    "charcs": {
+      "Resolution": "3200dpi",
+      "Connection": "USB Type-A"
+    }
+  },
+
+  {
+    "id": 199,
+    "img": "",
+    "type": "devices",
+    "brand": "SteelSeries",
+    "title": "Aerox 3",
+    "cost": 3,
+    "charcs": {
+      "Resolution": "18000dpi",
+      "Connection": "USB Type-A"
+    }
+  },
+
+  {
+    "id": 200,
+    "img": "",
+    "type": "devices",
+    "brand": "SVEN",
+    "title": "RX-G930W",
+    "cost": 11,
+    "charcs": {
+      "Resolution": "2400dpi",
+      "Connection": "USB Type-A"
+    }
+  },
+
+  {
+    "id": 201,
+    "img": "",
+    "type": "devices",
+    "brand": "Bloody",
+    "title": "A70",
+    "cost": 24,
+    "charcs": {
+      "Resolution": "6200dpi",
+      "Connection": "USB Type-A"
+    }
+  },
+
+  {
+    "id": 202,
+    "img": "",
+    "type": "devices",
+    "brand": "A4Tech",
+    "title": "X-718BK",
+    "cost": 10,
+    "charcs": {
+      "Resolution": "3000dpi",
+      "Connection": "USB Type-A"
+    }
+  },
+
+  {
+    "id": 203,
+    "img": "",
+    "type": "devices",
+    "brand": "Red Square",
+    "title": "Keyrox TKL",
+    "cost": 100,
+    "charcs": {
+      "Keys": "87",
+      "Connection": "USB"
+    }
+  },
+
+  {
+    "id": 204,
+    "img": "",
+    "type": "devices",
+    "brand": "Dark Project",
+    "title": "KD87A",
+    "cost": 195,
+    "charcs": {
+      "Keys": "87",
+      "Connection": "USB"
+    }
+  },
+
+  {
+    "id": 205,
+    "img": "",
+    "type": "devices",
+    "brand": "Logitech",
+    "title": "K280E",
+    "cost": 23,
+    "charcs": {
+      "Keys": "103",
+      "Connection": "USB"
+    }
+  },
+
+  {
+    "id": 206,
+    "img": "",
+    "type": "devices",
+    "brand": "ZET GAMING",
+    "title": "Blade PRO",
+    "cost": 93,
+    "charcs": {
+      "Keys": "87",
+      "Connection": "USB"
+    }
+  },
+
+  {
+    "id": 207,
+    "img": "",
+    "type": "devices",
+    "brand": "MSI",
+    "title": "Vigor GK71",
+    "cost": 200,
+    "charcs": {
+      "Keys": "104",
+      "Connection": "USB"
+    }
+  },
+
+  {
+    "id": 208,
+    "img": "",
+    "type": "devices",
+    "brand": "Oklick",
+    "title": "969G",
+    "cost": 40,
+    "charcs": {
+      "Keys": "87",
+      "Connection": "USB"
+    }
+  },
+
+  {
+    "id": 209,
+    "img": "",
+    "type": "devices",
+    "brand": "Smartbuy",
+    "title": "206",
+    "cost": 10,
+    "charcs": {
+      "Keys": "104",
+      "Connection": "USB"
+    }
+  },
+
+  {
+    "id": 210,
+    "img": "",
+    "type": "devices",
+    "brand": "Logitech",
+    "title": "K380",
+    "cost": 60,
+    "charcs": {
+      "Keys": "80",
+      "Connection": "Bluetooth"
+    }
+  },
+
+  {
+    "id": 211,
+    "img": "",
+    "type": "devices",
+    "brand": "DEXP",
+    "title": "Anger",
+    "cost": 40,
+    "charcs": {
+      "Keys": "87",
+      "Connection": "USB"
+    }
+  },
+
+  {
+    "id": 212,
+    "img": "",
+    "type": "devices",
+    "brand": "Oklick",
+    "title": "90M",
+    "cost": 5,
+    "charcs": {
+      "Keys": "104",
+      "Connection": "USB"
     }
   }
 ]

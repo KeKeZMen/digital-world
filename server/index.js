@@ -13,7 +13,7 @@ function filterDevices(products, query) {
 
   if(query.brand) filteredProducts = filteredProducts.filter((product) => query.brand.includes(product.brand.toLowerCase()));
 
-  if(query.cpu) filteredProducts = filteredProducts.filter(product => query.cpu.includes(product.charcs.CPU.toLowerCase()))
+  if(query.cpu) filteredProducts = filteredProducts.filter(product => query.cpu.includes(product.charcs['CPU'].toLowerCase()))
 
   if(query.ram) filteredProducts = filteredProducts.filter(product => query.ram.toString().includes(product.charcs['RAM']))
 
