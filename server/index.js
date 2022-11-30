@@ -1,6 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const devices = require("./products.json");
+const bp = require('body-parser')
 
 const app = express();
 const PORT = 3001;
@@ -41,8 +42,15 @@ function filterDevices(products, query) {
 }
 
 app.listen(PORT, () => console.log(`server started on port ${PORT}`));
+
 app.use(cors());
+app.use(bp.json())
+app.use(bp.urlencoded({extended: true}))
+
 app.get("/products", (req, res) => {
   console.log(req.query);
   res.send(filterDevices(devices, req.query));
 });
+app.post('/orders', (req, res) => {
+  console.log(req.body);
+})

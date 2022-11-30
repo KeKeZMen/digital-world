@@ -30,7 +30,6 @@ export default function MainPage() {
           <div className="add__slider">
             <Slider elWidth={570} dots={true} buttons={false}>
               <img src={vr} alt="" />
-              <img src={vr} alt="" />
               <img src={iphone} alt="" />
             </Slider>
           </div>
