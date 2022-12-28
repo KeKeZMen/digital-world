@@ -46,6 +46,7 @@ app.listen(PORT, () => console.log(`server started on port ${PORT}`));
 app.use(cors());
 app.use(bp.json())
 app.use(bp.urlencoded({extended: true}))
+app.use(express.static('static'))
 
 app.get("/products", (req, res) => {
   console.log(req.query);

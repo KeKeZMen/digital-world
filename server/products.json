@@ -1,21 +1,16 @@
 [
   {
     "id": 1,
-    "img": "",
+    "img": "http://localhost:3001/nova5t.png",
     "type": "phones",
     "brand": "Huawei",
     "title": "Nova 5T",
     "cost": 362,
-    "charcs": {
-      "CPU": "Kirin 981",
-      "RAM": 6,
-      "Storage": 256,
-      "Display": "IPS"
-    }
+    "charcs": { "CPU": "Kirin 981", "RAM": 6, "Storage": 256, "Display": "IPS" }
   },
   {
     "id": 2,
-    "img": "",
+    "img": "http://localhost:3001/galaxya32.png",
     "type": "phones",
     "brand": "Samsung",
     "title": "Galaxy A32",
@@ -29,7 +24,7 @@
   },
   {
     "id": 3,
-    "img": "",
+    "img": "http://localhost:3001/galaxys20.png",
     "type": "phones",
     "brand": "Samsung",
     "title": "Galaxy S20",
@@ -43,21 +38,16 @@
   },
   {
     "id": 4,
-    "img": "",
+    "img": "http://localhost:3001/galaxya12.png",
     "type": "phones",
     "brand": "Samsung",
     "title": "Galaxy A12",
     "cost": 214,
-    "charcs": {
-      "CPU": "Helio P35",
-      "RAM": 3,
-      "Storage": 32,
-      "Display": "PLS"
-    }
+    "charcs": { "CPU": "Helio P35", "RAM": 3, "Storage": 32, "Display": "PLS" }
   },
   {
     "id": 5,
-    "img": "",
+    "img": "http://localhost:3001/nova9se.png",
     "type": "phones",
     "brand": "Huawei",
     "title": "Nova 9 SE",
@@ -71,7 +61,7 @@
   },
   {
     "id": 6,
-    "img": "",
+    "img": "http://localhost:3001/p50pro.png",
     "type": "phones",
     "brand": "Huawei",
     "title": "P50 Pro",
@@ -85,35 +75,25 @@
   },
   {
     "id": 7,
-    "img": "",
+    "img": "http://localhost:3001/p40lite.png",
     "type": "phones",
     "brand": "Huawei",
     "title": "P40 Lite",
     "cost": 339,
-    "charcs": {
-      "CPU": "Kirin 810",
-      "RAM": 6,
-      "Storage": 128,
-      "Display": "IPS"
-    }
+    "charcs": { "CPU": "Kirin 810", "RAM": 6, "Storage": 128, "Display": "IPS" }
   },
   {
     "id": 8,
-    "img": "",
+    "img": "http://localhost:3001/redminote8.png",
     "type": "phones",
     "brand": "Xiaomi",
     "title": "Redmi Note 8",
     "cost": 230,
-    "charcs": {
-      "CPU": "Helio G85",
-      "RAM": 4,
-      "Storage": 64,
-      "Display": "IPS"
-    }
+    "charcs": { "CPU": "Helio G85", "RAM": 4, "Storage": 64, "Display": "IPS" }
   },
   {
     "id": 9,
-    "img": "",
+    "img": "http://localhost:3001/redminote10pro.png",
     "type": "phones",
     "brand": "Xiaomi",
     "title": "Redmi Note 10 Pro",
@@ -127,7 +107,7 @@
   },
   {
     "id": 10,
-    "img": "",
+    "img": "http://localhost:3001/redminote11.png",
     "type": "phones",
     "brand": "Xiaomi",
     "title": "Redmi Note 11",
@@ -141,7 +121,7 @@
   },
   {
     "id": 11,
-    "img": "",
+    "img": "http://localhost:3001/ideapad330.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad 330",
@@ -155,7 +135,7 @@
   },
   {
     "id": 12,
-    "img": "",
+    "img": "http://localhost:3001/ideapad5pro.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad 5 Pro",
@@ -169,7 +149,7 @@
   },
   {
     "id": 13,
-    "img": "",
+    "img": "http://localhost:3001/ideapad3.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad 3",
@@ -183,7 +163,7 @@
   },
   {
     "id": 14,
-    "img": "",
+    "img": "http://localhost:3001/vivobook15.png",
     "type": "laptops",
     "brand": "ASUS",
     "title": "VivoBook 15",
@@ -197,7 +177,7 @@
   },
   {
     "id": 15,
-    "img": "",
+    "img": "http://localhost:3001/vivobooks14.png",
     "type": "laptops",
     "brand": "ASUS",
     "title": "VivoBook S14",
@@ -211,7 +191,7 @@
   },
   {
     "id": 16,
-    "img": "",
+    "img": "http://localhost:3001/nitro5.png",
     "type": "laptops",
     "brand": "Acer",
     "title": "Nitro 5",
@@ -225,7 +205,7 @@
   },
   {
     "id": 17,
-    "img": "",
+    "img": "http://localhost:3001/aspire3.png",
     "type": "laptops",
     "brand": "Acer",
     "title": "Aspire 3",
@@ -239,7 +219,7 @@
   },
   {
     "id": 18,
-    "img": "",
+    "img": "http://localhost:3001/pavilion15.png",
     "type": "laptops",
     "brand": "HP",
     "title": "Pavilion 15",
@@ -253,7 +233,7 @@
   },
   {
     "id": 19,
-    "img": "",
+    "img": "http://localhost:3001/pavilionaero13.png",
     "type": "laptops",
     "brand": "HP",
     "title": "Pavilion Aero 13",
@@ -267,7 +247,7 @@
   },
   {
     "id": 20,
-    "img": "",
+    "img": "http://localhost:3001/pavilion14.png",
     "type": "laptops",
     "brand": "HP",
     "title": "Pavilion 14",
@@ -281,137 +261,97 @@
   },
   {
     "id": 21,
-    "img": "",
+    "img": "http://localhost:3001/atlash337.png",
     "type": "computers",
     "brand": "DEXP",
     "title": "Atlas H337",
     "cost": 207,
-    "charcs": {
-      "CPU": "Celeron N4120",
-      "RAM": 4,
-      "Storage": 120
-    }
+    "charcs": { "CPU": "Celeron N4120", "RAM": 4, "Storage": 120 }
   },
   {
     "id": 22,
-    "img": "",
+    "img": "http://localhost:3001/atlash326.png",
     "type": "computers",
     "brand": "DEXP",
     "title": "Atlas H326",
     "cost": 617,
-    "charcs": {
-      "CPU": "Core i3 10100F",
-      "RAM": 8,
-      "Storage": 512
-    }
+    "charcs": { "CPU": "Core i3 10100F", "RAM": 8, "Storage": 512 }
   },
   {
     "id": 23,
-    "img": "",
+    "img": "http://localhost:3001/atlash299.png",
     "type": "computers",
     "brand": "DEXP",
     "title": "Atlas H299",
     "cost": 518,
-    "charcs": {
-      "CPU": "Core i5 10400",
-      "RAM": 16,
-      "Storage": 240
-    }
+    "charcs": { "CPU": "Core i5 10400", "RAM": 16, "Storage": 240 }
   },
   {
     "id": 24,
-    "img": "",
+    "img": "http://localhost:3001/gamingneom056.png",
     "type": "computers",
     "brand": "ZET",
     "title": "Gaming NEO M056",
     "cost": 1037,
-    "charcs": {
-      "CPU": "Core i5 11400F",
-      "RAM": 16,
-      "Storage": 512
-    }
+    "charcs": { "CPU": "Core i5 11400F", "RAM": 16, "Storage": 512 }
   },
   {
     "id": 25,
-    "img": "",
+    "img": "http://localhost:3001/gamingneom045.png",
     "type": "computers",
     "brand": "ZET",
     "title": "Gaming NEO M045",
     "cost": 741,
-    "charcs": {
-      "CPU": "Core i3 10105F",
-      "RAM": 16,
-      "Storage": 512
-    }
+    "charcs": { "CPU": "Core i3 10105F", "RAM": 16, "Storage": 512 }
   },
   {
     "id": 26,
-    "img": "",
+    "img": "http://localhost:3001/gamingneom026.png",
     "type": "computers",
     "brand": "ZET",
     "title": "Gaming NEO M026",
     "cost": 823,
-    "charcs": {
-      "CPU": "Core i3 10100F",
-      "RAM": 16,
-      "Storage": 500
-    }
+    "charcs": { "CPU": "Core i3 10100F", "RAM": 16, "Storage": 500 }
   },
   {
     "id": 27,
-    "img": "",
+    "img": "http://localhost:3001/strike520.png",
     "type": "computers",
     "brand": "Raskat",
     "title": "Strike 520",
     "cost": 1268,
-    "charcs": {
-      "CPU": "Core i5 10400F",
-      "RAM": 16,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Core i5 10400F", "RAM": 16, "Storage": 1000 }
   },
   {
     "id": 28,
-    "img": "",
+    "img": "http://localhost:3001/strike320.png",
     "type": "computers",
     "brand": "Raskat",
     "title": "Strike 320",
     "cost": 1487,
-    "charcs": {
-      "CPU": "Core i5 12100F",
-      "RAM": 16,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Core i5 12100F", "RAM": 16, "Storage": 1000 }
   },
   {
     "id": 29,
-    "img": "",
+    "img": "http://localhost:3001/strike520.png",
     "type": "computers",
     "brand": "Raskat",
     "title": "Strike 520",
     "cost": 2033,
-    "charcs": {
-      "CPU": "Core i5 10400",
-      "RAM": 16,
-      "Storage": 500
-    }
+    "charcs": { "CPU": "Core i5 10400", "RAM": 16, "Storage": 500 }
   },
   {
     "id": 30,
-    "img": "",
+    "img": "http://localhost:3001/standart700.png",
     "type": "computers",
     "brand": "Raskat",
     "title": "Standart 700",
     "cost": 823,
-    "charcs": {
-      "CPU": "Core i7 10700",
-      "RAM": 16,
-      "Storage": 480
-    }
+    "charcs": { "CPU": "Core i7 10700", "RAM": 16, "Storage": 480 }
   },
   {
     "id": 31,
-    "img": "",
+    "img": "http://localhost:3001/tz719.png",
     "type": "tablets",
     "brand": "Irbis",
     "title": "TZ719",
@@ -425,7 +365,7 @@
   },
   {
     "id": 32,
-    "img": "",
+    "img": "http://localhost:3001/tz725.png",
     "type": "tablets",
     "brand": "Irbis",
     "title": "TZ725",
@@ -439,7 +379,7 @@
   },
   {
     "id": 33,
-    "img": "",
+    "img": "http://localhost:3001/tz757.png",
     "type": "tablets",
     "brand": "Irbis",
     "title": "TZ757",
@@ -453,7 +393,7 @@
   },
   {
     "id": 34,
-    "img": "",
+    "img": "http://localhost:3001/7098g.png",
     "type": "tablets",
     "brand": "BQ",
     "title": "7098G",
@@ -467,7 +407,7 @@
   },
   {
     "id": 35,
-    "img": "",
+    "img": "http://localhost:3001/7083g.png",
     "type": "tablets",
     "brand": "BQ",
     "title": "7083G",
@@ -481,7 +421,7 @@
   },
   {
     "id": 36,
-    "img": "",
+    "img": "http://localhost:3001/7000g.png",
     "type": "tablets",
     "brand": "BQ",
     "title": "7000G",
@@ -495,7 +435,7 @@
   },
   {
     "id": 37,
-    "img": "",
+    "img": "http://localhost:3001/nxtpaper10s.png",
     "type": "tablets",
     "brand": "TCL",
     "title": "NXTPAPER 10s",
@@ -509,7 +449,7 @@
   },
   {
     "id": 38,
-    "img": "",
+    "img": "http://localhost:3001/nxtpaper10slte.png",
     "type": "tablets",
     "brand": "TCL",
     "title": "NXTPAPER 10s LTE",
@@ -523,7 +463,7 @@
   },
   {
     "id": 39,
-    "img": "",
+    "img": "http://localhost:3001/tabmax10.png",
     "type": "tablets",
     "brand": "TCL",
     "title": "TABMAX 10",
@@ -537,7 +477,7 @@
   },
   {
     "id": 40,
-    "img": "",
+    "img": "http://localhost:3001/t20.png",
     "type": "tablets",
     "brand": "Nokia",
     "title": "T20",
@@ -551,7 +491,7 @@
   },
   {
     "id": 41,
-    "img": "",
+    "img": "http://localhost:3001/h110.png",
     "type": "devices",
     "brand": "Logitech",
     "title": "H110",
@@ -564,7 +504,7 @@
   },
   {
     "id": 42,
-    "img": "",
+    "img": "http://localhost:3001/g435.png",
     "type": "devices",
     "brand": "Logitech",
     "title": "G435",
@@ -577,7 +517,7 @@
   },
   {
     "id": 43,
-    "img": "",
+    "img": "http://localhost:3001/g432.png",
     "type": "devices",
     "brand": "Logitech",
     "title": "G432",
@@ -590,7 +530,7 @@
   },
   {
     "id": 44,
-    "img": "",
+    "img": "http://localhost:3001/g733.png",
     "type": "devices",
     "brand": "Logitech",
     "title": "G733",
@@ -603,81 +543,61 @@
   },
   {
     "id": 45,
-    "img": "",
+    "img": "http://localhost:3001/ly-331.png",
     "type": "devices",
     "brand": "ExeGate",
     "title": "LY-331",
     "cost": 6,
-    "charcs": {
-      "Keys": "104",
-      "Connection": "USB"
-    }
+    "charcs": { "Keys": "104", "Connection": "USB" }
   },
   {
     "id": 46,
-    "img": "",
+    "img": "http://localhost:3001/ly-401.png",
     "type": "devices",
     "brand": "ExeGate",
     "title": "LY-401",
     "cost": 6,
-    "charcs": {
-      "Keys": "104",
-      "Connection": "USB"
-    }
+    "charcs": { "Keys": "104", "Connection": "USB" }
   },
   {
     "id": 47,
-    "img": "",
+    "img": "http://localhost:3001/ly-405.png",
     "type": "devices",
     "brand": "ExeGate",
     "title": "LY-405",
     "cost": 6,
-    "charcs": {
-      "Keys": "105",
-      "Connection": "USB"
-    }
+    "charcs": { "Keys": "105", "Connection": "USB" }
   },
   {
     "id": 48,
-    "img": "",
+    "img": "http://localhost:3001/cm-408bu.png",
     "type": "devices",
     "brand": "Aceline",
     "title": "CM-408BU",
     "cost": 3,
-    "charcs": {
-      "Resolution": "800dpi",
-      "Connection": "USB Type-A"
-    }
+    "charcs": { "Resolution": "800dpi", "Connection": "USB Type-A" }
   },
   {
     "id": 49,
-    "img": "",
+    "img": "http://localhost:3001/cm-906bu.png",
     "type": "devices",
     "brand": "Aceline",
     "title": "CM-906BU",
     "cost": 3,
-    "charcs": {
-      "Resolution": "1200dpi",
-      "Connection": "USB Type-A"
-    }
+    "charcs": { "Resolution": "1200dpi", "Connection": "USB Type-A" }
   },
-
   {
     "id": 50,
-    "img": "",
+    "img": "http://localhost:3001/115s.png",
     "type": "devices",
     "brand": "Oklick",
     "title": "115S",
     "cost": 3,
-    "charcs": {
-      "Resolution": "1200dpi",
-      "Connection": "USB Type-A"
-    }
+    "charcs": { "Resolution": "1200dpi", "Connection": "USB Type-A" }
   },
-
   {
     "id": 51,
-    "img": "",
+    "img": "http://localhost:3001/matebook16.png",
     "type": "laptops",
     "brand": "HUAWEI",
     "title": "MateBook 16",
@@ -689,10 +609,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 52,
-    "img": "",
+    "img": "http://localhost:3001/magicbookx14.png",
     "type": "laptops",
     "brand": "Honor",
     "title": "MagicBook X 14",
@@ -704,10 +623,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 53,
-    "img": "",
+    "img": "http://localhost:3001/gf66katana.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "GF66 Katana",
@@ -719,10 +637,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 54,
-    "img": "",
+    "img": "http://localhost:3001/modern14.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "Modern 14",
@@ -734,10 +651,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 55,
-    "img": "",
+    "img": "http://localhost:3001/ideapad3.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad 3",
@@ -749,10 +665,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 56,
-    "img": "",
+    "img": "http://localhost:3001/laptop15s.png",
     "type": "laptops",
     "brand": "HP",
     "title": "Laptop 15s",
@@ -764,10 +679,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 57,
-    "img": "",
+    "img": "http://localhost:3001/macbookpro.png",
     "type": "laptops",
     "brand": "Apple",
     "title": "MacBook Pro",
@@ -779,10 +693,9 @@
       "Display": "mini-LED"
     }
   },
-
   {
     "id": 58,
-    "img": "",
+    "img": "http://localhost:3001/prestige14.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "Prestige 14",
@@ -794,10 +707,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 59,
-    "img": "",
+    "img": "http://localhost:3001/17ke4.png",
     "type": "laptops",
     "brand": "AORUS",
     "title": "17 KE4",
@@ -809,10 +721,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 60,
-    "img": "",
+    "img": "http://localhost:3001/omen16.png",
     "type": "laptops",
     "brand": "HP",
     "title": "OMEN 16",
@@ -824,10 +735,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 61,
-    "img": "",
+    "img": "http://localhost:3001/matebookxpro.png",
     "type": "laptops",
     "brand": "HUAWEI",
     "title": "MateBook X Pro",
@@ -839,10 +749,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 62,
-    "img": "",
+    "img": "http://localhost:3001/5se4.png",
     "type": "laptops",
     "brand": "AORUS",
     "title": "5 SE4",
@@ -854,10 +763,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 63,
-    "img": "",
+    "img": "http://localhost:3001/matebook16s.png",
     "type": "laptops",
     "brand": "HUAWEI",
     "title": "MateBook 16s",
@@ -869,10 +777,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 64,
-    "img": "",
+    "img": "http://localhost:3001/legion7.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "Legion 7",
@@ -884,10 +791,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 65,
-    "img": "",
+    "img": "http://localhost:3001/summite13.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "Summit E13",
@@ -899,10 +805,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 66,
-    "img": "",
+    "img": "http://localhost:3001/gf76katana.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "GF76 Katana",
@@ -914,10 +819,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 67,
-    "img": "",
+    "img": "http://localhost:3001/prestige14.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "Prestige 14",
@@ -929,10 +833,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 68,
-    "img": "",
+    "img": "http://localhost:3001/laptop17.png",
     "type": "laptops",
     "brand": "HP",
     "title": "Laptop 17",
@@ -944,10 +847,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 69,
-    "img": "",
+    "img": "http://localhost:3001/thinkbook15.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "ThinkBook 15",
@@ -959,10 +861,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 70,
-    "img": "",
+    "img": "http://localhost:3001/aspire5.png",
     "type": "laptops",
     "brand": "Acer",
     "title": "Aspire 5",
@@ -974,10 +875,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 71,
-    "img": "",
+    "img": "http://localhost:3001/g7.png",
     "type": "laptops",
     "brand": "GIGABYTE",
     "title": "G7",
@@ -989,10 +889,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 72,
-    "img": "",
+    "img": "http://localhost:3001/aero17.png",
     "type": "laptops",
     "brand": "GIGABYTE",
     "title": "AERO 17",
@@ -1004,10 +903,9 @@
       "Display": "mini-LED"
     }
   },
-
   {
     "id": 73,
-    "img": "",
+    "img": "http://localhost:3001/creatorz17.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "Creator Z17",
@@ -1019,10 +917,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 74,
-    "img": "",
+    "img": "http://localhost:3001/15pxd.png",
     "type": "laptops",
     "brand": "AORUS",
     "title": "15P XD",
@@ -1034,25 +931,18 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 75,
-    "img": "",
+    "img": "http://localhost:3001/ideapad3.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad 3",
     "cost": 450,
-    "charcs": {
-      "CPU": "AMD 3020e",
-      "RAM": 4,
-      "Storage": 256,
-      "Display": "IPS"
-    }
+    "charcs": { "CPU": "AMD 3020e", "RAM": 4, "Storage": 256, "Display": "IPS" }
   },
-
   {
     "id": 76,
-    "img": "",
+    "img": "http://localhost:3001/v15g2.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "V15 G2",
@@ -1064,10 +954,9 @@
       "Display": "TN+film"
     }
   },
-
   {
     "id": 77,
-    "img": "",
+    "img": "http://localhost:3001/laptop15s.png",
     "type": "laptops",
     "brand": "HP",
     "title": "Laptop 15s",
@@ -1079,10 +968,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 78,
-    "img": "",
+    "img": "http://localhost:3001/matebook14.png",
     "type": "laptops",
     "brand": "HUAWEI",
     "title": "MateBook 14",
@@ -1094,10 +982,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 79,
-    "img": "",
+    "img": "http://localhost:3001/aspire7.png",
     "type": "laptops",
     "brand": "Acer",
     "title": "Aspire 7",
@@ -1109,10 +996,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 80,
-    "img": "",
+    "img": "http://localhost:3001/ideapad3.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad 3",
@@ -1124,10 +1010,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 81,
-    "img": "",
+    "img": "http://localhost:3001/laptop17.png",
     "type": "laptops",
     "brand": "HP",
     "title": "Laptop 17",
@@ -1139,10 +1024,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 82,
-    "img": "",
+    "img": "http://localhost:3001/17ke4.png",
     "type": "laptops",
     "brand": "AORUS",
     "title": "17 KE4",
@@ -1154,10 +1038,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 83,
-    "img": "",
+    "img": "http://localhost:3001/ideapad5.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad 5",
@@ -1169,10 +1052,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 84,
-    "img": "",
+    "img": "http://localhost:3001/nitro5.png",
     "type": "laptops",
     "brand": "Acer",
     "title": "Nitro 5",
@@ -1184,10 +1066,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 85,
-    "img": "",
+    "img": "http://localhost:3001/katanagf76.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "Katana GF76",
@@ -1199,10 +1080,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 86,
-    "img": "",
+    "img": "http://localhost:3001/victus16.png",
     "type": "laptops",
     "brand": "HP",
     "title": "Victus 16",
@@ -1214,10 +1094,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 87,
-    "img": "",
+    "img": "http://localhost:3001/legion5.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "Legion 5",
@@ -1229,10 +1108,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 88,
-    "img": "",
+    "img": "http://localhost:3001/v15g2.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "V15 G2",
@@ -1244,10 +1122,9 @@
       "Display": "TN+film"
     }
   },
-
   {
     "id": 89,
-    "img": "",
+    "img": "http://localhost:3001/ideapad3.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad 3",
@@ -1259,25 +1136,18 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 90,
-    "img": "",
+    "img": "http://localhost:3001/macbookpro.png",
     "type": "laptops",
     "brand": "Apple",
     "title": "MacBook Pro",
     "cost": 1700,
-    "charcs": {
-      "CPU": "Apple M2",
-      "RAM": 8,
-      "Storage": 256,
-      "Display": "IPS"
-    }
+    "charcs": { "CPU": "Apple M2", "RAM": 8, "Storage": 256, "Display": "IPS" }
   },
-
   {
     "id": 91,
-    "img": "",
+    "img": "http://localhost:3001/probook455g8.png",
     "type": "laptops",
     "brand": "HP",
     "title": "Probook 455 G8",
@@ -1289,10 +1159,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 92,
-    "img": "",
+    "img": "http://localhost:3001/summite13.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "Summit E13",
@@ -1304,10 +1173,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 93,
-    "img": "",
+    "img": "http://localhost:3001/aspire3.png",
     "type": "laptops",
     "brand": "Acer",
     "title": "Aspire 3",
@@ -1319,10 +1187,9 @@
       "Display": "TN+film"
     }
   },
-
   {
     "id": 94,
-    "img": "",
+    "img": "http://localhost:3001/crosshair15.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "Crosshair 15",
@@ -1334,10 +1201,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 95,
-    "img": "",
+    "img": "http://localhost:3001/ideapadgaming3.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad Gaming 3",
@@ -1349,10 +1215,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 96,
-    "img": "",
+    "img": "http://localhost:3001/modern14.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "Modern 14",
@@ -1364,10 +1229,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 97,
-    "img": "",
+    "img": "http://localhost:3001/matebookd14.png",
     "type": "laptops",
     "brand": "HUAWEI",
     "title": "MateBook D 14",
@@ -1379,10 +1243,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 98,
-    "img": "",
+    "img": "http://localhost:3001/v15g3.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "V15 G3",
@@ -1394,10 +1257,9 @@
       "Display": "TN+film"
     }
   },
-
   {
     "id": 99,
-    "img": "",
+    "img": "http://localhost:3001/modern15.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "Modern 15",
@@ -1409,10 +1271,9 @@
       "Display": "TN+film"
     }
   },
-
   {
     "id": 100,
-    "img": "",
+    "img": "http://localhost:3001/ufdashf15.png",
     "type": "laptops",
     "brand": "ASUS",
     "title": "UF Dash F15",
@@ -1424,10 +1285,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 101,
-    "img": "",
+    "img": "http://localhost:3001/creatorz16p.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "Creator Z16P",
@@ -1439,10 +1299,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 102,
-    "img": "",
+    "img": "http://localhost:3001/m547.png",
     "type": "laptops",
     "brand": "Maibenben",
     "title": "M547",
@@ -1454,10 +1313,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 103,
-    "img": "",
+    "img": "http://localhost:3001/magicbookx15.png",
     "type": "laptops",
     "brand": "Honor",
     "title": "MagicBook X15",
@@ -1469,10 +1327,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 104,
-    "img": "",
+    "img": "http://localhost:3001/a5x1.png",
     "type": "laptops",
     "brand": "GIGABYTE",
     "title": "A5 X1",
@@ -1484,10 +1341,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 105,
-    "img": "",
+    "img": "http://localhost:3001/magicbookpro.png",
     "type": "laptops",
     "brand": "Honor",
     "title": "MagicBook Pro",
@@ -1499,10 +1355,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 106,
-    "img": "",
+    "img": "http://localhost:3001/magicbookpro.png",
     "type": "laptops",
     "brand": "Honor",
     "title": "MagicBook Pro",
@@ -1514,10 +1369,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 107,
-    "img": "",
+    "img": "http://localhost:3001/probook455g8.png",
     "type": "laptops",
     "brand": "HP",
     "title": "Probook 455 G8",
@@ -1529,10 +1383,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 108,
-    "img": "",
+    "img": "http://localhost:3001/vivobook15.png",
     "type": "laptops",
     "brand": "ASUS",
     "title": "VivoBook 15",
@@ -1544,25 +1397,18 @@
       "Display": "OLED"
     }
   },
-
   {
     "id": 109,
-    "img": "",
+    "img": "http://localhost:3001/macbookair.png",
     "type": "laptops",
     "brand": "Apple",
     "title": "MacBook Air",
     "cost": 900,
-    "charcs": {
-      "CPU": "Apple M1",
-      "RAM": 8,
-      "Storage": 256,
-      "Display": "IPS"
-    }
+    "charcs": { "CPU": "Apple M1", "RAM": 8, "Storage": 256, "Display": "IPS" }
   },
-
   {
     "id": 110,
-    "img": "",
+    "img": "http://localhost:3001/nb704.png",
     "type": "laptops",
     "brand": "Irbis",
     "title": "NB704",
@@ -1574,10 +1420,9 @@
       "Display": "TN+film"
     }
   },
-
   {
     "id": 111,
-    "img": "",
+    "img": "http://localhost:3001/summite13flipevo.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "Summit E13 Flip Evo",
@@ -1589,10 +1434,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 112,
-    "img": "",
+    "img": "http://localhost:3001/17gkd.png",
     "type": "laptops",
     "brand": "AORUS",
     "title": "17G KD",
@@ -1604,10 +1448,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 113,
-    "img": "",
+    "img": "http://localhost:3001/thinkbook15.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "ThinkBook 15",
@@ -1619,10 +1462,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 114,
-    "img": "",
+    "img": "http://localhost:3001/extensa15.png",
     "type": "laptops",
     "brand": "Acer",
     "title": "Extensa 15",
@@ -1634,10 +1476,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 115,
-    "img": "",
+    "img": "http://localhost:3001/ideapad3.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad 3",
@@ -1649,10 +1490,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 116,
-    "img": "",
+    "img": "http://localhost:3001/aspire3.png",
     "type": "laptops",
     "brand": "Acer",
     "title": "Aspire 3",
@@ -1664,10 +1504,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 117,
-    "img": "",
+    "img": "http://localhost:3001/vivobook15.png",
     "type": "laptops",
     "brand": "ASUS",
     "title": "VivoBook 15",
@@ -1679,10 +1518,9 @@
       "Display": "OLED"
     }
   },
-
   {
     "id": 118,
-    "img": "",
+    "img": "http://localhost:3001/victus16.png",
     "type": "laptops",
     "brand": "HP",
     "title": "Victus 16",
@@ -1694,10 +1532,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 119,
-    "img": "",
+    "img": "http://localhost:3001/gf76katana.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "GF76 Katana",
@@ -1709,10 +1546,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 120,
-    "img": "",
+    "img": "http://localhost:3001/m547.png",
     "type": "laptops",
     "brand": "Maibenben",
     "title": "M547",
@@ -1724,10 +1560,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 121,
-    "img": "",
+    "img": "http://localhost:3001/matebookd15.png",
     "type": "laptops",
     "brand": "HUAWEI",
     "title": "MateBook D 15",
@@ -1739,10 +1574,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 122,
-    "img": "",
+    "img": "http://localhost:3001/magicbook14.png",
     "type": "laptops",
     "brand": "Honor",
     "title": "MagicBook 14",
@@ -1754,10 +1588,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 123,
-    "img": "",
+    "img": "http://localhost:3001/245g8.png",
     "type": "laptops",
     "brand": "HP",
     "title": "245 G8",
@@ -1769,10 +1602,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 124,
-    "img": "",
+    "img": "http://localhost:3001/pavilionx36014.png",
     "type": "laptops",
     "brand": "HP",
     "title": "Pavilion x360 14",
@@ -1784,10 +1616,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 125,
-    "img": "",
+    "img": "http://localhost:3001/omen16.png",
     "type": "laptops",
     "brand": "HP",
     "title": "OMEN 16",
@@ -1799,10 +1630,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 126,
-    "img": "",
+    "img": "http://localhost:3001/omen16.png",
     "type": "laptops",
     "brand": "HP",
     "title": "OMEN 16",
@@ -1814,10 +1644,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 127,
-    "img": "",
+    "img": "http://localhost:3001/laptop15.png",
     "type": "laptops",
     "brand": "ASUS",
     "title": "Laptop 15",
@@ -1829,10 +1658,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 128,
-    "img": "",
+    "img": "http://localhost:3001/ideapadgaming3.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad Gaming 3",
@@ -1844,10 +1672,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 129,
-    "img": "",
+    "img": "http://localhost:3001/legion7.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "Legion 7",
@@ -1859,10 +1686,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 130,
-    "img": "",
+    "img": "http://localhost:3001/u4ud.png",
     "type": "laptops",
     "brand": "GIGABYTE",
     "title": "U4 UD",
@@ -1874,10 +1700,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 131,
-    "img": "",
+    "img": "http://localhost:3001/ideapad3.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad 3",
@@ -1889,10 +1714,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 132,
-    "img": "",
+    "img": "http://localhost:3001/thinkbook15g2itl.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "ThinkBook 15 G2 ITL",
@@ -1904,10 +1728,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 133,
-    "img": "",
+    "img": "http://localhost:3001/ideapadl3.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad L3",
@@ -1919,10 +1742,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 134,
-    "img": "",
+    "img": "http://localhost:3001/nitro5.png",
     "type": "laptops",
     "brand": "Acer",
     "title": "Nitro 5",
@@ -1934,10 +1756,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 135,
-    "img": "",
+    "img": "http://localhost:3001/rogzephyrus.png",
     "type": "laptops",
     "brand": "ASUS",
     "title": "ROG Zephyrus",
@@ -1949,10 +1770,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 136,
-    "img": "",
+    "img": "http://localhost:3001/250g7.png",
     "type": "laptops",
     "brand": "HP",
     "title": "250 G7",
@@ -1964,10 +1784,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 137,
-    "img": "",
+    "img": "http://localhost:3001/bravo15.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "BRAvo 15",
@@ -1979,10 +1798,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 138,
-    "img": "",
+    "img": "http://localhost:3001/zenbook14xoled.png",
     "type": "laptops",
     "brand": "ASUS",
     "title": "ZenBook 14X OLED",
@@ -1994,10 +1812,9 @@
       "Display": "OLED"
     }
   },
-
   {
     "id": 139,
-    "img": "",
+    "img": "http://localhost:3001/paviliongaming17.png",
     "type": "laptops",
     "brand": "HP",
     "title": "Pavilion Gaming 17",
@@ -2009,10 +1826,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 140,
-    "img": "",
+    "img": "http://localhost:3001/zenbook14xoled.png",
     "type": "laptops",
     "brand": "ASUS",
     "title": "ZenBook 14X OLED",
@@ -2024,10 +1840,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 141,
-    "img": "",
+    "img": "http://localhost:3001/250g8.png",
     "type": "laptops",
     "brand": "HP",
     "title": "250 G8",
@@ -2039,10 +1854,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 142,
-    "img": "",
+    "img": "http://localhost:3001/nb275.png",
     "type": "laptops",
     "brand": "Irbis",
     "title": "NB275",
@@ -2054,10 +1868,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 143,
-    "img": "",
+    "img": "http://localhost:3001/extensa15.png",
     "type": "laptops",
     "brand": "Acer",
     "title": "Extensa 15",
@@ -2069,10 +1882,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 144,
-    "img": "",
+    "img": "http://localhost:3001/g5md.png",
     "type": "laptops",
     "brand": "GIGABYTE",
     "title": "G5 MD",
@@ -2084,10 +1896,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 145,
-    "img": "",
+    "img": "http://localhost:3001/spin1.png",
     "type": "laptops",
     "brand": "Acer",
     "title": "Spin 1",
@@ -2099,10 +1910,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 146,
-    "img": "",
+    "img": "http://localhost:3001/spin1.png",
     "type": "laptops",
     "brand": "Acer",
     "title": "Spin 1",
@@ -2114,10 +1924,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 147,
-    "img": "",
+    "img": "http://localhost:3001/ideapad5pro.png",
     "type": "laptops",
     "brand": "Lenovo",
     "title": "IdeaPad 5 Pro",
@@ -2129,10 +1938,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 148,
-    "img": "",
+    "img": "http://localhost:3001/15pkd.png",
     "type": "laptops",
     "brand": "AORUS",
     "title": "15P KD",
@@ -2144,10 +1952,9 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 149,
-    "img": "",
+    "img": "http://localhost:3001/modern14.png",
     "type": "laptops",
     "brand": "MSI",
     "title": "Modern 14",
@@ -2161,7 +1968,7 @@
   },
   {
     "id": 150,
-    "img": "",
+    "img": "http://localhost:3001/pavilion15.png",
     "type": "laptops",
     "brand": "HP",
     "title": "Pavilion 15",
@@ -2173,430 +1980,279 @@
       "Display": "IPS"
     }
   },
-
   {
     "id": 151,
-    "img": "",
+    "img": "http://localhost:3001/wardh274.png",
     "type": "computers",
     "brand": "ZET Gaming",
     "title": "WARD H274",
     "cost": 2033,
-    "charcs": {
-      "CPU": "Core i7-12700KF",
-      "RAM": 32,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Core i7-12700KF", "RAM": 32, "Storage": 1000 }
   },
-
   {
     "id": 152,
-    "img": "",
+    "img": "http://localhost:3001/neom033.png",
     "type": "computers",
     "brand": "ZET Gaming",
     "title": "NEO M033",
     "cost": 2000,
-    "charcs": {
-      "CPU": "Intel Core i5-11400F",
-      "RAM": 16,
-      "Storage": 500
-    }
+    "charcs": { "CPU": "Intel Core i5-11400F", "RAM": 16, "Storage": 500 }
   },
-
   {
     "id": 153,
-    "img": "",
+    "img": "http://localhost:3001/wardh268.png",
     "type": "computers",
     "brand": "ZET Gaming",
     "title": "WARD H268",
     "cost": 1300,
-    "charcs": {
-      "CPU": "Intel Core i5-11400F",
-      "RAM": 16,
-      "Storage": 512
-    }
+    "charcs": { "CPU": "Intel Core i5-11400F", "RAM": 16, "Storage": 512 }
   },
-
   {
     "id": 154,
-    "img": "",
+    "img": "http://localhost:3001/maginfinite.png",
     "type": "computers",
     "brand": "MSI",
     "title": "MAG Infinite",
     "cost": 1100,
-    "charcs": {
-      "CPU": "Intel Core i5-11400F",
-      "RAM": 16,
-      "Storage": 512
-    }
+    "charcs": { "CPU": "Intel Core i5-11400F", "RAM": 16, "Storage": 512 }
   },
-
   {
     "id": 155,
-    "img": "",
+    "img": "http://localhost:3001/wardh223.png",
     "type": "computers",
     "brand": "ZET Gaming",
     "title": "WARD H223",
     "cost": 2400,
-    "charcs": {
-      "CPU": "Intel Core i7-12700KF",
-      "RAM": 16,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Intel Core i7-12700KF", "RAM": 16, "Storage": 1000 }
   },
-
   {
     "id": 156,
-    "img": "",
+    "img": "http://localhost:3001/nitron50.png",
     "type": "computers",
     "brand": "Acer",
     "title": "Nitro N50",
     "cost": 1100,
-    "charcs": {
-      "CPU": "Intel Core i5-11400F",
-      "RAM": 16,
-      "Storage": 512
-    }
+    "charcs": { "CPU": "Intel Core i5-11400F", "RAM": 16, "Storage": 512 }
   },
-
   {
     "id": 157,
-    "img": "",
+    "img": "http://localhost:3001/wardh280.png",
     "type": "computers",
     "brand": "ZET Gaming",
     "title": "WARD H280",
     "cost": 1300,
-    "charcs": {
-      "CPU": "Intel Core i5-1240P",
-      "RAM": 16,
-      "Storage": 512
-    }
+    "charcs": { "CPU": "Intel Core i5-1240P", "RAM": 16, "Storage": 512 }
   },
-
   {
     "id": 158,
-    "img": "",
+    "img": "http://localhost:3001/rogstrix.png",
     "type": "computers",
     "brand": "ASUS",
     "title": "ROG Strix",
     "cost": 2300,
-    "charcs": {
-      "CPU": "Intel Core i7-11700F",
-      "RAM": 16,
-      "Storage": 500
-    }
+    "charcs": { "CPU": "Intel Core i7-11700F", "RAM": 16, "Storage": 500 }
   },
-
   {
     "id": 159,
-    "img": "",
+    "img": "http://localhost:3001/aspirexc-1660.png",
     "type": "computers",
     "brand": "Acer",
     "title": "Aspire XC-1660",
     "cost": 800,
-    "charcs": {
-      "CPU": "Intel Core i5-10400",
-      "RAM": 16,
-      "Storage": 256
-    }
+    "charcs": { "CPU": "Intel Core i5-10400", "RAM": 16, "Storage": 256 }
   },
-
   {
     "id": 160,
-    "img": "",
+    "img": "http://localhost:3001/predatorpo3.png",
     "type": "computers",
     "brand": "Acer",
     "title": "Predator PO3",
     "cost": 2650,
-    "charcs": {
-      "CPU": "Intel Core i7-11700F",
-      "RAM": 16,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Intel Core i7-11700F", "RAM": 16, "Storage": 1000 }
   },
-
   {
     "id": 161,
-    "img": "",
+    "img": "http://localhost:3001/atlash376.png",
     "type": "computers",
     "brand": "DEXP",
     "title": "Atlas H376",
     "cost": 1000,
-    "charcs": {
-      "CPU": "Intel Core i7-11700",
-      "RAM": 16,
-      "Storage": 512
-    }
+    "charcs": { "CPU": "Intel Core i7-11700", "RAM": 16, "Storage": 512 }
   },
-
   {
     "id": 162,
-    "img": "",
+    "img": "http://localhost:3001/omen25l.png",
     "type": "computers",
     "brand": "HP",
     "title": "OMEN 25L",
     "cost": 2000,
-    "charcs": {
-      "CPU": "Intel Core i5-11400F",
-      "RAM": 16,
-      "Storage": 512
-    }
+    "charcs": { "CPU": "Intel Core i5-11400F", "RAM": 16, "Storage": 512 }
   },
-
   {
     "id": 163,
-    "img": "",
+    "img": "http://localhost:3001/510b5gma.png",
     "type": "computers",
     "brand": "IRU Game ",
     "title": "510B5GMA",
     "cost": 1600,
-    "charcs": {
-      "CPU": "Intel Core i5-11400F",
-      "RAM": 16,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Intel Core i5-11400F", "RAM": 16, "Storage": 1000 }
   },
-
   {
     "id": 164,
-    "img": "",
+    "img": "http://localhost:3001/strike520.png",
     "type": "computers",
     "brand": "Raskat",
     "title": "Strike 520",
     "cost": 2500,
-    "charcs": {
-      "CPU": "Intel Core i5-11600KF",
-      "RAM": 16,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Intel Core i5-11600KF", "RAM": 16, "Storage": 1000 }
   },
-
   {
     "id": 165,
-    "img": "",
+    "img": "http://localhost:3001/strike320.png",
     "type": "computers",
     "brand": "Raskat",
     "title": "Strike 320",
     "cost": 1300,
-    "charcs": {
-      "CPU": "Intel Core i3-12100F",
-      "RAM": 16,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Intel Core i3-12100F", "RAM": 16, "Storage": 1000 }
   },
-
   {
     "id": 166,
-    "img": "",
+    "img": "http://localhost:3001/wardh285.png",
     "type": "computers",
     "brand": "ZET Gaming",
     "title": "WARD H285",
     "cost": 1300,
-    "charcs": {
-      "CPU": "Intel Core i5-12400F",
-      "RAM": 16,
-      "Storage": 512
-    }
+    "charcs": { "CPU": "Intel Core i5-12400F", "RAM": 16, "Storage": 512 }
   },
-
   {
     "id": 167,
-    "img": "",
+    "img": "http://localhost:3001/maginfinite.png",
     "type": "computers",
     "brand": "MSI",
     "title": "MAG Infinite",
     "cost": 1000,
-    "charcs": {
-      "CPU": "Intel Core i5-12400F",
-      "RAM": 16,
-      "Storage": 512
-    }
+    "charcs": { "CPU": "Intel Core i5-12400F", "RAM": 16, "Storage": 512 }
   },
-
   {
     "id": 168,
-    "img": "",
+    "img": "http://localhost:3001/magcodex5.png",
     "type": "computers",
     "brand": "MSI",
     "title": "MAG Codex 5",
     "cost": 1300,
-    "charcs": {
-      "CPU": "Intel Core i5-12400F",
-      "RAM": 16,
-      "Storage": 512
-    }
+    "charcs": { "CPU": "Intel Core i5-12400F", "RAM": 16, "Storage": 512 }
   },
-
   {
     "id": 169,
-    "img": "",
+    "img": "http://localhost:3001/wardh162.png",
     "type": "computers",
     "brand": "ZET Gaming",
     "title": "WARD H162",
     "cost": 1300,
-    "charcs": {
-      "CPU": "Intel Core i5-10400F",
-      "RAM": 16,
-      "Storage": 500
-    }
+    "charcs": { "CPU": "Intel Core i5-10400F", "RAM": 16, "Storage": 500 }
   },
-
   {
     "id": 170,
-    "img": "",
+    "img": "http://localhost:3001/mpgtridentas.png",
     "type": "computers",
     "brand": "MSI",
     "title": "MPG Trident AS",
     "cost": 1100,
-    "charcs": {
-      "CPU": "Intel Core i5-11400F",
-      "RAM": 16,
-      "Storage": 512
-    }
+    "charcs": { "CPU": "Intel Core i5-11400F", "RAM": 16, "Storage": 512 }
   },
-
   {
     "id": 171,
-    "img": "",
+    "img": "http://localhost:3001/magcodexx5.png",
     "type": "computers",
     "brand": "MSI",
     "title": "MAG Codex X5",
     "cost": 2300,
-    "charcs": {
-      "CPU": "Intel Core i7-12700KF",
-      "RAM": 32,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Intel Core i7-12700KF", "RAM": 32, "Storage": 1000 }
   },
-
   {
     "id": 172,
-    "img": "",
+    "img": "http://localhost:3001/wardh253.png",
     "type": "computers",
     "brand": "ZET Gaming",
     "title": "WARD H253",
     "cost": 1400,
-    "charcs": {
-      "CPU": "Intel Core i5-11400F",
-      "RAM": 16,
-      "Storage": 500
-    }
+    "charcs": { "CPU": "Intel Core i5-11400F", "RAM": 16, "Storage": 500 }
   },
-
   {
     "id": 173,
-    "img": "",
+    "img": "http://localhost:3001/magcodexx5.png",
     "type": "computers",
     "brand": "MSI",
     "title": "MAG Codex X5",
     "cost": 2300,
-    "charcs": {
-      "CPU": "Intel Core i7-12700KF",
-      "RAM": 32,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Intel Core i7-12700KF", "RAM": 32, "Storage": 1000 }
   },
-
   {
     "id": 174,
-    "img": "",
+    "img": "http://localhost:3001/evox007.png",
     "type": "computers",
     "brand": "ZET Gaming",
     "title": "EVO X007",
     "cost": 5800,
-    "charcs": {
-      "CPU": "Intel Core i9-12900KF",
-      "RAM": 32,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Intel Core i9-12900KF", "RAM": 32, "Storage": 1000 }
   },
-
   {
     "id": 175,
-    "img": "",
+    "img": "http://localhost:3001/predatorpo7-640.png",
     "type": "computers",
     "brand": "Acer",
     "title": "Predator PO7-640",
     "cost": 13000,
-    "charcs": {
-      "CPU": "Intel Core i9-12900K",
-      "RAM": 96,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Intel Core i9-12900K", "RAM": 96, "Storage": 1000 }
   },
-
   {
     "id": 176,
-    "img": "",
+    "img": "http://localhost:3001/predatorpo9-920.png",
     "type": "computers",
     "brand": "Acer",
     "title": "Predator PO9-920",
     "cost": 8000,
-    "charcs": {
-      "CPU": "Intel Core i9-10900X",
-      "RAM": 64,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Intel Core i9-10900X", "RAM": 64, "Storage": 1000 }
   },
-
   {
     "id": 177,
-    "img": "",
+    "img": "http://localhost:3001/predatorpo7-640.png",
     "type": "computers",
     "brand": "Acer",
     "title": "Predator PO7-640",
     "cost": 6600,
-    "charcs": {
-      "CPU": "Intel Core i9-12900K",
-      "RAM": 32,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Intel Core i9-12900K", "RAM": 32, "Storage": 1000 }
   },
-
   {
     "id": 178,
-    "img": "",
+    "img": "http://localhost:3001/rogstrixgt35.png",
     "type": "computers",
     "brand": "ASUS",
     "title": "ROG Strix GT35",
     "cost": 5700,
-    "charcs": {
-      "CPU": "Intel Core i9-11900KF",
-      "RAM": 32,
-      "Storage": 2000
-    }
+    "charcs": { "CPU": "Intel Core i9-11900KF", "RAM": 32, "Storage": 2000 }
   },
-
   {
     "id": 179,
-    "img": "",
+    "img": "http://localhost:3001/strike720.png",
     "type": "computers",
     "brand": "Raskat",
     "title": "Strike 720",
     "cost": 5700,
-    "charcs": {
-      "CPU": "Intel Core i7-12700K",
-      "RAM": 32,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Intel Core i7-12700K", "RAM": 32, "Storage": 1000 }
   },
-
   {
     "id": 180,
-    "img": "",
+    "img": "http://localhost:3001/cyber3080.png",
     "type": "computers",
     "brand": "HYPERPC",
     "title": "CYBER 3080",
     "cost": 5500,
-    "charcs": {
-      "CPU": "Intel Core i7-11700KF",
-      "RAM": 32,
-      "Storage": 1000
-    }
+    "charcs": { "CPU": "Intel Core i7-11700KF", "RAM": 32, "Storage": 1000 }
   },
-
   {
     "id": 181,
-    "img": "",
+    "img": "http://localhost:3001/gprox.png",
     "type": "devices",
     "brand": "Logitech",
     "title": "G PRO X",
@@ -2607,10 +2263,9 @@
       "Sensitivity": 92
     }
   },
-
   {
     "id": 182,
-    "img": "",
+    "img": "http://localhost:3001/cloudstinger.png",
     "type": "devices",
     "brand": "HyperX",
     "title": "Cloud Stinger",
@@ -2621,10 +2276,9 @@
       "Sensitivity": 99
     }
   },
-
   {
     "id": 183,
-    "img": "",
+    "img": "http://localhost:3001/g2ii.png",
     "type": "devices",
     "brand": "Edifier",
     "title": "G2II",
@@ -2635,10 +2289,9 @@
       "Sensitivity": 101
     }
   },
-
   {
     "id": 184,
-    "img": "",
+    "img": "http://localhost:3001/majoriv.png",
     "type": "devices",
     "brand": "Marshall",
     "title": "Major IV",
@@ -2649,10 +2302,9 @@
       "Sensitivity": 99
     }
   },
-
   {
     "id": 185,
-    "img": "",
+    "img": "http://localhost:3001/g435.png",
     "type": "devices",
     "brand": "Logitech",
     "title": "G435",
@@ -2663,10 +2315,9 @@
       "Sensitivity": 83.1
     }
   },
-
   {
     "id": 186,
-    "img": "",
+    "img": "http://localhost:3001/u980mv.png",
     "type": "devices",
     "brand": "SVEN AP",
     "title": "U980MV",
@@ -2677,10 +2328,9 @@
       "Sensitivity": 108
     }
   },
-
   {
     "id": 186,
-    "img": "",
+    "img": "http://localhost:3001/cloudalpha.png",
     "type": "devices",
     "brand": "HyperX",
     "title": "Cloud Alpha",
@@ -2691,10 +2341,9 @@
       "Sensitivity": 98
     }
   },
-
   {
     "id": 187,
-    "img": "",
+    "img": "http://localhost:3001/cloudalphas.png",
     "type": "devices",
     "brand": "HyperX",
     "title": "Cloud Alpha S",
@@ -2705,10 +2354,9 @@
       "Sensitivity": 99
     }
   },
-
   {
     "id": 188,
-    "img": "",
+    "img": "http://localhost:3001/arctis5.png",
     "type": "devices",
     "brand": "SteelSeries",
     "title": "Arctis 5",
@@ -2719,10 +2367,9 @@
       "Sensitivity": 98
     }
   },
-
   {
     "id": 189,
-    "img": "",
+    "img": "http://localhost:3001/stormpro.png",
     "type": "devices",
     "brand": "DEXP",
     "title": "Storm Pro",
@@ -2733,10 +2380,9 @@
       "Sensitivity": 107
     }
   },
-
   {
     "id": 190,
-    "img": "",
+    "img": "http://localhost:3001/edge.png",
     "type": "devices",
     "brand": "ZET GAMING",
     "title": "Edge",
@@ -2747,10 +2393,9 @@
       "Sensitivity": 95
     }
   },
-
   {
     "id": 191,
-    "img": "",
+    "img": "http://localhost:3001/gprox.png",
     "type": "devices",
     "brand": "Logitech",
     "title": "G PRO X",
@@ -2761,277 +2406,193 @@
       "Sensitivity": 92
     }
   },
-
   {
     "id": 192,
-    "img": "",
+    "img": "http://localhost:3001/prox.png",
     "type": "devices",
     "brand": "Logitech",
     "title": "PRO X",
     "cost": 220,
-    "charcs": {
-      "Resolution": "25600 dpi",
-      "Connection": "USB Type-A"
-    }
+    "charcs": { "Resolution": "25600 dpi", "Connection": "USB Type-A" }
   },
-
   {
     "id": 193,
-    "img": "",
+    "img": "http://localhost:3001/g502.png",
     "type": "devices",
     "brand": "Logitech",
     "title": "G502",
     "cost": 100,
-    "charcs": {
-      "Resolution": "25600 dpi",
-      "Connection": "USB Type-A"
-    }
+    "charcs": { "Resolution": "25600 dpi", "Connection": "USB Type-A" }
   },
-
   {
     "id": 194,
-    "img": "",
+    "img": "http://localhost:3001/g305.png",
     "type": "devices",
     "brand": "Logitech",
     "title": "G305",
     "cost": 90,
-    "charcs": {
-      "Resolution": "12000dpi",
-      "Connection": "USB Type-A"
-    }
+    "charcs": { "Resolution": "12000dpi", "Connection": "USB Type-A" }
   },
-
   {
     "id": 195,
-    "img": "",
+    "img": "http://localhost:3001/immortalitypro.png",
     "type": "devices",
     "brand": "ZET GAMING",
     "title": "Immortality PRO",
     "cost": 85,
-    "charcs": {
-      "Resolution": "19000dpi",
-      "Connection": "USB Type-A"
-    }
+    "charcs": { "Resolution": "19000dpi", "Connection": "USB Type-A" }
   },
-
   {
     "id": 196,
-    "img": "",
+    "img": "http://localhost:3001/v8.png",
     "type": "devices",
     "brand": "Bloody",
     "title": "V8",
     "cost": 20,
-    "charcs": {
-      "Resolution": "3200dpi",
-      "Connection": "USB Type-A"
-    }
+    "charcs": { "Resolution": "3200dpi", "Connection": "USB Type-A" }
   },
-
   {
     "id": 197,
-    "img": "",
+    "img": "http://localhost:3001/deathadderv2.png",
     "type": "devices",
     "brand": "Razer",
     "title": "DeathAdder V2",
     "cost": 90,
-    "charcs": {
-      "Resolution": "20000dpi",
-      "Connection": "USB Type-A"
-    }
+    "charcs": { "Resolution": "20000dpi", "Connection": "USB Type-A" }
   },
-
   {
     "id": 198,
-    "img": "",
+    "img": "http://localhost:3001/r8skull.png",
     "type": "devices",
     "brand": "Bloody",
     "title": "R8 SKULL",
     "cost": 40,
-    "charcs": {
-      "Resolution": "3200dpi",
-      "Connection": "USB Type-A"
-    }
+    "charcs": { "Resolution": "3200dpi", "Connection": "USB Type-A" }
   },
-
   {
     "id": 199,
-    "img": "",
+    "img": "http://localhost:3001/aerox3.png",
     "type": "devices",
     "brand": "SteelSeries",
     "title": "Aerox 3",
     "cost": 3,
-    "charcs": {
-      "Resolution": "18000dpi",
-      "Connection": "USB Type-A"
-    }
+    "charcs": { "Resolution": "18000dpi", "Connection": "USB Type-A" }
   },
-
   {
     "id": 200,
-    "img": "",
+    "img": "http://localhost:3001/rx-g930w.png",
     "type": "devices",
     "brand": "SVEN",
     "title": "RX-G930W",
     "cost": 11,
-    "charcs": {
-      "Resolution": "2400dpi",
-      "Connection": "USB Type-A"
-    }
+    "charcs": { "Resolution": "2400dpi", "Connection": "USB Type-A" }
   },
-
   {
     "id": 201,
-    "img": "",
+    "img": "http://localhost:3001/a70.png",
     "type": "devices",
     "brand": "Bloody",
     "title": "A70",
     "cost": 24,
-    "charcs": {
-      "Resolution": "6200dpi",
-      "Connection": "USB Type-A"
-    }
+    "charcs": { "Resolution": "6200dpi", "Connection": "USB Type-A" }
   },
-
   {
     "id": 202,
-    "img": "",
+    "img": "http://localhost:3001/x-718bk.png",
     "type": "devices",
     "brand": "A4Tech",
     "title": "X-718BK",
     "cost": 10,
-    "charcs": {
-      "Resolution": "3000dpi",
-      "Connection": "USB Type-A"
-    }
+    "charcs": { "Resolution": "3000dpi", "Connection": "USB Type-A" }
   },
-
   {
     "id": 203,
-    "img": "",
+    "img": "http://localhost:3001/keyroxtkl.png",
     "type": "devices",
     "brand": "Red Square",
     "title": "Keyrox TKL",
     "cost": 100,
-    "charcs": {
-      "Keys": "87",
-      "Connection": "USB"
-    }
+    "charcs": { "Keys": "87", "Connection": "USB" }
   },
-
   {
     "id": 204,
-    "img": "",
+    "img": "http://localhost:3001/kd87a.png",
     "type": "devices",
     "brand": "Dark Project",
     "title": "KD87A",
     "cost": 195,
-    "charcs": {
-      "Keys": "87",
-      "Connection": "USB"
-    }
+    "charcs": { "Keys": "87", "Connection": "USB" }
   },
-
   {
     "id": 205,
-    "img": "",
+    "img": "http://localhost:3001/k280e.png",
     "type": "devices",
     "brand": "Logitech",
     "title": "K280E",
     "cost": 23,
-    "charcs": {
-      "Keys": "103",
-      "Connection": "USB"
-    }
+    "charcs": { "Keys": "103", "Connection": "USB" }
   },
-
   {
     "id": 206,
-    "img": "",
+    "img": "http://localhost:3001/bladepro.png",
     "type": "devices",
     "brand": "ZET GAMING",
     "title": "Blade PRO",
     "cost": 93,
-    "charcs": {
-      "Keys": "87",
-      "Connection": "USB"
-    }
+    "charcs": { "Keys": "87", "Connection": "USB" }
   },
-
   {
     "id": 207,
-    "img": "",
+    "img": "http://localhost:3001/vigorgk71.png",
     "type": "devices",
     "brand": "MSI",
     "title": "Vigor GK71",
     "cost": 200,
-    "charcs": {
-      "Keys": "104",
-      "Connection": "USB"
-    }
+    "charcs": { "Keys": "104", "Connection": "USB" }
   },
-
   {
     "id": 208,
-    "img": "",
+    "img": "http://localhost:3001/969g.png",
     "type": "devices",
     "brand": "Oklick",
     "title": "969G",
     "cost": 40,
-    "charcs": {
-      "Keys": "87",
-      "Connection": "USB"
-    }
+    "charcs": { "Keys": "87", "Connection": "USB" }
   },
-
   {
     "id": 209,
-    "img": "",
+    "img": "http://localhost:3001/206.png",
     "type": "devices",
     "brand": "Smartbuy",
     "title": "206",
     "cost": 10,
-    "charcs": {
-      "Keys": "104",
-      "Connection": "USB"
-    }
+    "charcs": { "Keys": "104", "Connection": "USB" }
   },
-
   {
     "id": 210,
-    "img": "",
+    "img": "http://localhost:3001/k380.png",
     "type": "devices",
     "brand": "Logitech",
     "title": "K380",
     "cost": 60,
-    "charcs": {
-      "Keys": "80",
-      "Connection": "Bluetooth"
-    }
+    "charcs": { "Keys": "80", "Connection": "Bluetooth" }
   },
-
   {
     "id": 211,
-    "img": "",
+    "img": "http://localhost:3001/anger.png",
     "type": "devices",
     "brand": "DEXP",
     "title": "Anger",
     "cost": 40,
-    "charcs": {
-      "Keys": "87",
-      "Connection": "USB"
-    }
+    "charcs": { "Keys": "87", "Connection": "USB" }
   },
-
   {
     "id": 212,
-    "img": "",
+    "img": "http://localhost:3001/90m.png",
     "type": "devices",
     "brand": "Oklick",
     "title": "90M",
     "cost": 5,
-    "charcs": {
-      "Keys": "104",
-      "Connection": "USB"
-    }
+    "charcs": { "Keys": "104", "Connection": "USB" }
   }
 ]
